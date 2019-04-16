@@ -1,0 +1,16 @@
+category,variable,page,position,number_of_items_in_line
+parties,Name,6,1,2
+parties,Company Name,6,1,2
+parties,CompanyAddress, 6, 1, 2
+parties,CompanyAddress,6, 1,3
+parties,Telephone Number,6,1,2
+parties,EmailAddress,6,1,2
+parties,Date of Signature and Report, 6,1,2
+parties,Effective Date of Appraisal,6,1,2
+parties,State Certification #, 6,1,2
+parties,or State License #,6,1,2
+parties,or Other (describe), 6,1,3
+parties,State #, 6,2,3
+parties,State,6,1,2
+parties,Expiration Date of Certification or License, 6,1,2
+

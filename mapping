@@ -1,0 +1,15 @@
+sequence,label,nextlabel,type
+3,File #,_NEXT,
+6,Property Address,City,
+7,City,State,
+8,State,Zip Code,
+9,Zip Code,Borrower,
+8,Borrower,Owner of Public Record,
+9,Dimensions,Area,
+10,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).","Are there any physical deficiencies or adverse conditions that affect the livability, soundness, or structural integrity of the property?",
+11,COMPARABLE SALE # 3,Proximity to Subject,
+12,Proximity to Subject,Sale Price,
+101_103,Net Adjustment (Total),Adjusted Sale Price,_COMPLEX
+14,Adjusted Sale Price,of Comparables,_COMPLEX
+114_118,"Date of Prior Sale/Transfer","Price of Prior Sale/Transfer",_COMPLEX,
+116_120,"Data Source(s)","Effective Date of Data Source(s)",_COMPLEX

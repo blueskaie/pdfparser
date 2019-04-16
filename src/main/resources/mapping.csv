@@ -1,0 +1,703 @@
+id,page,label,alternatelabel,type,option,alternateoption,position,value,nextlabel,numlines,spacing,length,lineseparator,fieldseparator,occurance,check
+1,0,AppraisalSoftwareProductVersionIdentifier,,fixed,,,,5.221,,,,,,,,
+2,0,AppraisalSoftwareProductName,,fixed,,,,a la mode - WinTOTAL,,,,,,,,
+3,0,AppraiserReportSignedDate,,fixed,,,,41326,,,,,,,,
+4,0,OtherLoanPurposeDescription,,fixed,,,,,,,,,,,,
+5,0,AppraisalFormType,,fixed,,,,FNM1004,,,,,,,,
+6,0,AppraisalFormVersionIdentifier,,fixed,,,,2005,,,,,,,,
+7,0,AppraisalPurposeTypeOtherDescription,,fixed,,,,,,,,,,,,
+8,0,AppraisalReportContentName,,fixed,,,,URAR [Form 1004][03/05][UAD Version 9/2011],,,,,,,,
+9,0,AppraisalReportContentType,,fixed,,,,AppraisalForm,,,,,,,,
+10,0,AppraisalReportContentIdentifier,,fixed,,,,UAD Version 9/2011,,,,,,,,
+11,0,AppraisalReportContentIsPrimaryFormIndicator,,fixed,,,,Y,,,,,,,,
+12,0,AppraisalReportContentName,,fixed,,,,Market Conditions Addendum to the Appraisal Report [Form 1004MC][03/09],,,,,,,,
+13,0,AppraisalReportContentType,,fixed,,,,Addendum,,,,,,,,
+14,0,AppraisalReportContentIdentifier,,fixed,,,,1004MC,,,,,,,,
+15,0,AppraisalReportContentIsPrimaryFormIndicator,,fixed,,,,N,,,,,,,,
+16,0,,,fixed,,,,Stable,,,,,,,,
+17,0,,,fixed,,,,1,,,,,,,,
+18,0,,,fixed,,,,1,,,,,,,,
+19,0,,,fixed,,,,2,,,,,,,,
+20,0,,,fixed,,,,Increasing,,,,,,,,
+21,0,,,fixed,,,,0.17,,,,,,,,
+22,0,,,fixed,,,,0.33,,,,,,,,
+23,0,,,fixed,,,,0.67,,,,,,,,
+24,0,,,fixed,,,,Stable,,,,,,,,
+25,0,,,fixed,,,,3,,,,,,,,
+26,0,,,fixed,,,,0,,,,,,,,
+27,0,,,fixed,,,,0,,,,,,,,
+28,0,,,fixed,,,,Declining,,,,,,,,
+29,0,,,fixed,,,,17.6,,,,,,,,
+30,0,,,fixed,,,,0,,,,,,,,
+31,0,,,fixed,,,,0,,,,,,,,
+32,0,,,fixed,,,,Stable,,,,,,,,
+33,0,,,fixed,,,,254000,,,,,,,,
+34,0,,,fixed,,,,243000,,,,,,,,
+35,0,,,fixed,,,,235000,,,,,,,,
+36,0,,,fixed,,,,Increasing,,,,,,,,
+37,0,,,fixed,,,,1,,,,,,,,
+38,0,,,fixed,,,,82,,,,,,,,
+39,0,,,fixed,,,,210,,,,,,,,
+40,0,,,fixed,,,,Stable,,,,,,,,
+41,0,,,fixed,,,,265000,,,,,,,,
+42,0,,,fixed,,,,,,,,,,,,
+43,0,,,fixed,,,,,,,,,,,,
+44,0,,,fixed,,,,Stable,,,,,,,,
+45,0,,,fixed,,,,140,,,,,,,,
+46,0,,,fixed,,,,,,,,,,,,
+47,0,,,fixed,,,,,,,,,,,,
+48,0,,,fixed,,,,Stable,,,,,,,,
+49,0,,,fixed,,,,94.00%,,,,,,,,
+50,0,,,fixed,,,,90.00%,,,,,,,,
+51,0,,,fixed,,,,93.00%,,,,,,,,
+52,0,,,fixed,,,,,,,,,,,,
+53,0,,,fixed,,,,,,,,,,,,
+54,0,,,fixed,,,,,,,,,,,,
+55,0,,,fixed,,,,,,,,,,,,
+56,0,,,fixed,,,,,,,,,,,,
+57,0,,,fixed,,,,,,,,,,,,
+58,0,,,fixed,,,,,,,,,,,,
+59,0,,,fixed,,,,,,,,,,,,
+60,0,,,fixed,,,,,,,,,,,,
+61,0,,,fixed,,,,,,,,,,,,
+62,0,,,fixed,,,,,,,,,,,,
+63,0,,,fixed,,,,,,,,,,,,
+64,0,,,fixed,,,,,,,,,,,,
+65,0,,,fixed,,,,,,,,,,,,
+66,0,,,fixed,,,,,,,,,,,,
+67,0,,,fixed,,,,AppraisalReport,,,,,,,,
+68,0,,,fixed,,,,Base64,,,,,,,,
+69,0,,,fixed,,,,application/pdf,,,,,,,,
+70,0,,,fixed,,,,PDF,,,,,,,,
+71,0,,,fixed,,,,2.6GSE,,,,,,,,
+2,,Uniform Residential Appraisal Report,,fixed,,,,Uniform Residential Appraisal Report,File #,1,,,,,,ok
+3,1,File #,File No.,text,,,,,,1,,,,,,ok
+4,1,File #,File No.,text,,,,,,1,,,,,,ok
+6,1,Property Address,,text,,,,,City,1,,,,,,ok
+7,1,City,,text,,,,,State,1,,,,,,ok
+8,1,State,,text,,,,,Zip Code,1,,,,,,ok
+9,1,Zip Code,,text,,,,,,1,,,,,,ok
+10,1,Borrower,,text,,,,,Owner of Public Record,1,,,,,,ok
+11,1,Owner of Public Record,,text,,,,,County,1,,,,,,ok
+12,1,County,,text,,,,,,1,,,,,,ok
+13,1,Legal Description,,text,,,,,,1,,,,,,ok
+14,1,Assessor's Parcel #,Assessor’s Parcel,text,,,,,Tax Year,1,,,,,,ok
+15,1,Tax Year,,text,,,,,R.E. Taxes $,1,,,,,,ok
+16,1,R.E. Taxes $,,text,,,,,,1,,,,,,ok
+17,1,Neighborhood Name,,text,,,,,Map Reference,1,,,,,,ok
+18,1,Map Reference,,text,,,,,Census Tract,1,,,,,,ok
+19,1,Census Tract,,text,,,,,,1,,,,,,ok
+20,1,Occupant,,checkbox,Owner,,left,X,,1,,,,,,ok
+21,1,Occupant,,checkbox,Tenant,,left,X,,1,,,,,,ok
+22,1,Occupant,,checkbox,Vacant,,left,X,,1,,,,,,ok
+23,1,Special Assessments $,,text,,,,,,1,,,,,,ok
+24,1,,,checkbox,PUD,,left,X,,1,,,,,,ok
+25,1,HOA $,,text,,,,,,1,,,,,,ok
+26,1,,,checkbox,per year,,left,X,,1,,,,,,ok
+27,1,,,checkbox,per month,,left,X,,1,,,,,,ok
+28,1,Property Rights Appraised,,checkbox,Fee Simple,,left,X,,1,,,,,,ok
+29,1,Property Rights Appraised,,checkbox,Leasehold,,left,X,,1,,,,,,ok
+30,1,Property Rights Appraised,,checkbox,Other (describe),,left,X,,1,,,,,,ok
+31,1,Other (describe),,text,,,,,,1,,,,,,ok
+32,1,Assignment Type,,checkbox,Purchase Transaction,,left,X,,1,,,,,,ok
+33,1,Assignment Type,,checkbox,Refinance Transaction,,left,X,,1,,,,,,ok
+34,1,Assignment Type,,checkbox,Other (describe),,left,X,,1,,,,,,ok
+35,1,Other (describe),,text,,,,,,1,,,,,,ok
+36,1,Lender/Client,,text,,,,,Address,1,,,,,,ok
+37,1,Address,,text,,,,,,1,,,,,,ok
+38,1,Is the subject property currently offered for sale or has it been offered for sale in the twelve months prior to the effective date of the appraisal?,,checkbox,Yes,,left,X,,1,,,,,,ok
+39,1,Is the subject property currently offered for sale or has it been offered for sale in the twelve months prior to the effective date of the appraisal?,,checkbox,No,,left,X,,1,,,,,,ok
+e-2,1,"Report data source(s) used, offering price(s), and date(s).",,text,,,,,,1,,,,,,ok
+40,1,"Report data source(s) used, offering price(s), and date(s).",,text,,,,,,1,,,,,,ok
+41,1,I,,checkbox,did,,left,X,,1,,,,,,ok
+42,1,I,,checkbox,did not analyze the contract for sale for the subject purchase transaction.,,left,X,,1,,,,,,ok
+e-3,1,,performed.,text,,,,,,1,,,,,,ok
+43,1,,performed.,text,,,,,,1,,,,,,ok
+44,1,Contract Price $,,text,,,,,Date of Contract,1,,,,,,ok
+45,1,Date of Contract,,text,,,,,Is the property seller the owner of public record?,1,,,,,,ok
+46,1,Is the property seller the owner of public record?,,checkbox,Yes,,left,X,,1,,,,,,ok
+47,1,Is the property seller the owner of public record?,,checkbox,No,,left,X,,1,,,,,,ok
+48,1,Data Source(s),,text,,,,,"Is there any financial assistance (loan charges, sale concessions, gift or downpayment assistance, etc.) to be paid by any party on behalf of the borrower?",1,,,,,,ok
+49,1,"Is there any financial assistance (loan charges, sale concessions, gift or downpayment assistance, etc.) to be paid by any party on behalf of the borrower?",,checkbox,Yes,,left,X,,1,,,,,,ok
+50,1,"Is there any financial assistance (loan charges, sale concessions, gift or downpayment assistance, etc.) to be paid by any party on behalf of the borrower?",,checkbox,No,,left,X,,1,,,,,,ok
+51a,1,"If Yes, report the total dollar amount and describe the items to be paid:",,text,,,,,,3,,4000,,,,ok
+e-4,1,"If Yes, report the total dollar amount and describe the items to be paid:",,text,,,,,,3,,4000,,,,ok
+51b,1,"If Yes, report the total dollar amount and describe the items to be paid:",,text,,,,,,3,,4000,,,,ok
+52,1,Location,,checkbox,Urban,,left,X,,1,,,,,,ok
+53,1,Location,,checkbox,Suburban,,left,X,,1,,,,,,ok
+54,1,Location,,checkbox,Rural,,left,X,,1,,,,,,ok
+61,1,Property Values,,checkbox,Increasing,,left,X,,1,,,,,,ok
+62,1,Property Values,,checkbox,Stable,,left,X,,1,,,,,,ok
+63,1,Property Values,,checkbox,Declining,,left,X,,1,,,,,,ok
+76,1,One-Unit,,area_text,,,,,,,,550,565,325,330,ok
+55,1,Built-Up,,checkbox,Over 75%,,left,X,,1,,,,,,ok
+56,1,Built-Up,,checkbox,25-75%,,left,X,,1,,,,,,ok
+57,1,Built-Up,,checkbox,Under 25%,,left,X,,1,,,,,,ok
+64,1,Demand/Supply,,checkbox,Shortage,,left,X,,1,,,,,,ok
+65,1,Demand/Supply,,checkbox,In Balance,,left,X,,1,,,,,,ok
+66,1,Demand/Supply,,checkbox,Over Supply,,left,X,,1,,,,,,ok
+77,1,2-4 Unit,,area_text,,,,,,,,550,565,335,345,ok
+58,1,Growth,,checkbox,Rapid,,left,X,,1,,,,,,ok
+59,1,Growth,,checkbox,Stable,,left,X,,1,,,,,,ok
+60,1,Growth,,checkbox,Slow,,left,X,,1,,,,,,ok
+67,1,Marketing Time,,checkbox,Under 3 mths,,left,X,,1,,,,,,ok
+68,1,Marketing Time,,checkbox,3-6 mths,,left,X,,1,,,,,,ok
+69,1,Marketing Time,,checkbox,Over 6 mths,,left,X,,1,,,,,,ok
+70,1,Low,,text,,,left,,,1,midx,,,,,ok
+73,1,Low,,text,,,,,,1,midx,,,,,ok
+71,1,High,,text,,,left,,,1,midx,,,,,ok
+74,1,High,,text,,,,,,1,midx,,,,,ok
+72,1,Pred.,,text,,,left,,,1,midx,,,,,ok
+75,1,Pred.,,text,,,,,,1,midx,,,,,ok
+78,1,Multi-Family,,area_text,,,,,,,,550,565,345,355,ok
+79,1,Commercial,,area_text,,,,,,,,550,565,360,370,ok
+81,1,Other,,area_text,,,,,,,,550,565,370,380,ok
+82,1,Neighborhood Boundaries,,text,,,,,,2,,50,,,,ok
+83,1,Neighborhood Description,,text,,,,,,3,,50,,,,ok
+84,1,Market Conditions (including support for the above conclusions),,text,,,,,,3,,50,,,,ok
+85,1,Dimensions,,text,,,,,,1,,,,,,ok
+86,1,Area,,text,,,,,,1,,,,,,ok
+87,1,Shape,,text,,,,,,1,,,,,,ok
+e-5,1,View,,text,,,,,,1,,,,,,ok
+e-6,1,View,,text,,,,,,1,,,,,,ok
+e-7,1,View,,text,,,,,,1,,,,,,ok
+89,1,Specific Zoning Classification,,text,,,,,Zoning Description,1,,,,,,ok
+90,1,Zoning Description,,text,,,,,,1,,,,,,ok
+91,1,Zoning Compliance,,checkbox,Legal,,left,X,,,,,,,,ok
+92,1,Zoning Compliance,,checkbox,Legal Nonconforming (Grandfathered Use),,left,X,,,,,,,,ok
+93,1,Zoning Compliance,,checkbox,No Zoning,,left,X,,,,,,,,ok
+94,1,Zoning Compliance,,checkbox,Illegal (describe),,left,X,,,,,,,,ok
+95,1,Illegal (describe),,text,,,,,,1,,,,,,ok
+96,1,Is the highest and best use of the subject property as improved (or as proposed per plans and specifications) the present use?,,checkbox,Yes,,left,X,,,,,,,,ok
+97,1,Is the highest and best use of the subject property as improved (or as proposed per plans and specifications) the present use?,,checkbox,"No If No, describe",,left,X,,,,,,,,ok
+98,1,"If No, describe",,text,,,,,,3,,50,,,,ok
+99,1,Electricity,,checkbox,Public,,down,X,,1,,,,,,ok
+100,1,Electricity,,checkbox,Other (describe),,down,X,,1,,,,,,ok
+101,1,Water,,text,,,left,,,1,,,,,,ok
+102,1,Gas,,checkbox,Public,,down,X,,2,,,,,,ok
+103,1,Gas,,checkbox,Other (describe),,down,X,,2,,,,,,ok
+104,1,Sanitary Sewer,,text,,,left,,,1,,,,,,ok
+105,1,Water,,checkbox,Public,,down,X,,1,,,,,,ok
+106,1,Water,,checkbox,Other (describe),,down,X,,1,,,,,,ok
+107,1,Street,,text,,,left,,,1,,,,,,ok
+108,1,Sanitary Sewer,,checkbox,Public,,down,X,,2,,,,,,ok
+109,1,Sanitary Sewer,,checkbox,Other (describe),,down,X,,2,,,,,,ok
+110,1,Alley,,text,,,left,,,1,,,,,,ok
+111,1,Street,,text,,,,,,1,,,,,,ok
+112,1,Street,,checkbox,Public,,down,X,,1,,,,,,ok
+113,1,Street,,checkbox,Private,,down,X,,1,,,,,,ok
+114,1,Alley,,text,,,,,,1,,,,,,ok
+115,1,Alley,,checkbox,Public,,down,X,,2,,,,,3,ok
+116,1,Alley,,checkbox,Private,,down,X,,2,,,,,3,ok
+117,1,FEMA Special Flood Hazard Area,,checkbox,Yes,,left,X,,,,,,,,ok
+118,1,FEMA Special Flood Hazard Area,,checkbox,No,,left,X,,,,,,,,ok
+119,1,FEMA Flood Zone,,text,,,,,,1,,,,,,ok
+120,1,FEMA Map No.,,text,,,,,,1,,,,,,ok
+121,1,FEMA Map Date,,text,,,,,,1,,,,,,ok
+122,1,Are the utilities and off-site improvements typical for the market area?,,checkbox,Yes,,left,X,,,,,,,,ok
+123,1,Are the utilities and off-site improvements typical for the market area?,,checkbox,No,"No. If No, describe",left,X,,,,,,,,ok
+124,1,"If No, describe",,text,,,,,,3,,4000,,,,ok
+125,1,"Are there any adverse site conditions or external factors (easements, encroachments, environmental conditions, land uses, etc.)?",,checkbox,Yes,,left,X,,,,,,,,ok
+126,1,"Are there any adverse site conditions or external factors (easements, encroachments, environmental conditions, land uses, etc.)?",,checkbox,"No  If Yes, describe",,left,X,,,,,,,,ok
+127,1,"If Yes, describe",,text,,,,,,3,,4000,,,,ok
+128,1,Units,,checkbox,One,,left,X,,,,,,,,ok
+129,1,Units,,checkbox,One with Accessory Unit,,left,X,,,,,,,,ok
+140,1,,,checkbox,Concrete Slab,,left,X,,,,,,,,ok
+141,1,,,checkbox,Crawl Space,,left,X,,,,,,,,ok
+152,1,Foundation Walls,,text,,,,,,1,,,,,,ok
+159,1,Floors,,text,,,,,,1,,,,,,ok
+130,1,# of Stories,,text,,,,,,1,,,,,,ok
+142,1,,,checkbox,Full Basement,,left,X,,,,,,,,ok
+143,1,,,checkbox,Partial Basement,,left,X,,,,,,,,ok
+153,1,Exterior Walls,,text,,,,,,1,,,,,,ok
+160,1,Walls,,text,,,,,,1,,,,,,ok
+131,1,Type,,checkbox,Det.,,left,X,,,,,,,,ok
+132,1,Type,,checkbox,Att.,,left,X,,,,,,,,ok
+133,1,Type,,checkbox,S-Det/End Unit,,left,X,,,,,,,,ok
+144,1,Basement Area,,text,,,,,,1,largex,15,,,,ok
+154,1,Roof Surface,,text,,,,,,1,,,,,,ok
+161,1,Trim/Finish,,text,,,,,,1,,,,,,ok
+134,1,,,checkbox,Existing,,left,X,,,,,,,,ok
+135,1,,,checkbox,Proposed,,left,X,,,,,,,1,ok
+136,1,,,checkbox,Under Const.,,left,X,,,,,,,,ok
+145,1,Basement Finish,,text,,,,,,1,,15,,,,ok
+155,1,Gutters & Downspouts,,text,,,,,,1,,,,,,ok
+162,1,Bath Floor,,text,,,,,,1,,,,,,ok
+137,1,Design (Style),,text,,,,,,1,,,,,,ok
+146,1,,,checkbox,Outside Entry/Exit,,left,X,,,,,,,,ok
+147,1,,,checkbox,Sump Pump,,left,X,,,,,,,,ok
+156,1,Window Type,,text,,,,,,1,,,,,,ok
+163,1,Bath Wainscot,,text,,,,,,1,,,,,,ok
+e-8,1,Year Built,,text,,,,,,1,,,,,,ok
+138,1,Year Built,,text,,,,,,1,,,,,,ok
+148,1,Evidence of,,checkbox,Infestation,,left,X,,,,,,,,ok
+157,1,Storm Sash/Insulated,,text,,,,,,1,,,,,,ok
+195,1,Car Storage,,checkbox,None,,left,X,,,,,,,,ok
+139,1,Effective Age (Yrs),,text,,,,,,1,,,,,,ok
+150,1,,,checkbox,Dampness,,left,X,,,,,,,,ok
+151,1,,,checkbox,Settlement,,left,X,,,,,,,,ok
+158,1,Screens,,text,,,,,,1,,15,,,,ok
+196,1,,,checkbox,Driveway,,left,X,,,,,,,,ok
+197,1,# of Cars,,text,,,,,,1,,,,,1,ok
+164,1,,,checkbox,None,,left,X,,,,,,,,ok
+165,1,,,checkbox,Drop Stair,,left,X,,,,,,,,ok
+166,1,,,checkbox,Stairs,,left,X,,,,,,,,ok
+167,1,,,checkbox,Floor,,left,X,,,,,,,,ok
+168,1,,,checkbox,Scuttle,,left,X,,,,,,,,ok
+169,1,,,checkbox,Finished,,left,X,,,,,,,,ok
+170,1,,,checkbox,Heated,,left,X,,,,,,,,ok
+171,1,Heating,,checkbox,FWA,,left,X,,,,,,,,ok
+172,1,Heating,,checkbox,HWBB,,left,X,,,,,,,,ok
+173,1,Heating,,checkbox,Radiant,,left,X,,,,,,,,ok
+174,1,Heating,,checkbox,Other,,down,X,,,,,,,,ok
+175,1,Other,,text,,,,,,1,,,,,,ok
+176,1,Fuel,,text,,,,,,1,,,,,,ok
+177,1,Cooling,,checkbox,Central Air Conditioning,,left,X,,,,,,,,ok
+178,1,,,checkbox,Individual,,left,X,,,,,,,,ok
+179,1,,Individual,checkbox,Other,,left,X,,,,,,,,ok
+180,1,Other,,text,,,,,,1,,,,,,ok
+187,1,Amenities,,checkbox,WoodStove(s)#,,left,X,,,,,,,,ok
+188,1,WoodStove(s)#,,text,,,,,,1,,2,,,,ok
+181,1,,,checkbox,Fireplace(s) #,,left,X,,,,,,,,ok
+182,1,Fireplace(s) #,,text,,,,,,1,,,,,,ok
+183,1,,,checkbox,Patio/Deck,,left,X,,,,,,,,ok
+184,1,Patio/Deck,,text,,,,,,1,,,,,,ok
+185,1,,,checkbox,Pool,,left,X,,,,,,,,ok
+186,1,Pool,,text,,,,,,1,,,,,,ok
+189,1,,,checkbox,Fence,,left,X,,,,,,,,ok
+190,1,Fence,,text,,,,,,1,,,,,,ok
+191,1,,,checkbox,Porch,,left,X,,,,,,,,ok
+192,1,Porch,,text,,,,,,1,,,,,,ok
+193,1,,Porch,checkbox,Other,,down,X,,,,,,,,ok
+194,1,Other,,text,,,,,,1,,,,,,ok
+198,1,Driveway Surface,,text,,,,,,1,,,,,,ok
+199,1,,,checkbox,Garage,,left,X,,,,,,,,ok
+200,1,# of Cars,,text,,,,,,1,,,,,2,ok
+201,1,,,checkbox,Carport,,left,X,,,,,,,,ok
+202,1,# of Cars,,text,,,,,,1,,,,,3,ok
+203,1,,,checkbox,Att.,,left,X,,,,,,,2,ok
+204,1,,,checkbox,Det.,,left,X,,,,,,,2,ok
+205,1,,,checkbox,Built-in,,left,X,,,,,,,,ok
+206,1,Appliances,,checkbox,Refrigerator,,left,X,,,,,,,,ok
+207,1,Appliances,,checkbox,Range/Oven,,left,X,,,,,,,,ok
+208,1,Appliances,,checkbox,Dishwasher,,left,X,,,,,,,,ok
+209,1,Appliances,,checkbox,Disposal,,left,X,,,,,,,,ok
+210,1,Appliances,,checkbox,Microwave,,left,X,,,,,,,,ok
+211,1,Appliances,,checkbox,Washer/Dryer,,left,X,,,,,,,,ok
+212,1,Appliances,,checkbox,Other (describe),,left,X,,,,,,,,ok
+213,1,Other (describe),,text,,,,,,1,,,,,,again
+214,1,Rooms,,text,,,left,,,1,,,,,,ok
+215,1,Bedrooms,,text,,,left,,,1,,,,,,ok
+216,1,Bath(s),,text,,,left,,,1,,,,,,ok
+217,1,Square Feet of Gross Living Area Above Grade,,text,,,left,,,1,,,,,,ok
+218,1,"Additional features (special energy efficient items, etc.)",,text,,,,,,2,,100,,,,ok
+219,1,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).",,text,,,,,,5,,300,,,,again
+e-9,1,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).",,text,,,,,,5,,300,,,,again
+e-10,1,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).",,text,,,,,,5,,300,,,,again
+e-11,1,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).",,text,,,,,,5,,300,,,,again
+e-12,1,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).",,text,,,,,,5,,300,,,,again
+e-13,1,"Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.).",,text,,,,,,5,,300,,,,again
+220,1,"Are there any physical deficiencies or adverse conditions that affect the livability, soundness, or structural integrity of the property?",,checkbox,Yes,,left,X,,,,,,,,ok
+221,1,"Are there any physical deficiencies or adverse conditions that affect the livability, soundness, or structural integrity of the property?",,checkbox,"No  If Yes, describe",,left,X,,,,,,,,ok
+222,1,"If Yes, describe",,text,,,,,,4,,100,,,,ok
+223,1,"Does the property generally conform to the neighborhood (functional utility, style, condition, use, construction, etc.)?",,checkbox,Yes,,left,X,,,,,,,,ok
+224,1,"Does the property generally conform to the neighborhood (functional utility, style, condition, use, construction, etc.)?",,checkbox,"No If No, describe",,left,X,,,,,,,,ok
+225,1,"If No, describe",,text,,,,,,3,,100,,,,ok
+2,1,Uniform Residential Appraisal Report,,fixed,,,,Uniform Residential Appraisal Report,File #,1,,,,,,ok
+3,2,File #,File No.,text,,,,,,1,,,,,,ok
+4,2,File #,File No.,text,,,,,,1,,,,,,ok
+5,2,comparable properties currently offered for sale in the subject neighborhood ranging in price from,,text,,,left,,,1,,,,,,ok
+6,2,to,,text,,,left,,,1,,70,,,1,ok
+7,2,$,,text,,,,,,1,,20,,,2,ok
+8,2,comparable sales in the subject neighborhood within the past twelve months ranging in sale price from,,text,,,left,,,1,,,,,,ok
+9,2,to,,text,,,left,,,1,,70,,,2,ok
+10,2,$,,text,,,,,,1,,20,,,4,ok
+11,2,,,area_text,,,,,,,,35,180,85,95,ok
+12a,2,,,area_text,,,,,,,,80,180,95,105,good
+12b,2,,,area_text,,,,,,,,80,180,95,105,good
+12c,2,,,area_text,,,,,,,,80,180,95,105,good
+,2,SUBJECT, SUBJECT,column_text,Proximity to Subject,,down,,,,,,,,1,empty
+13,2,SUBJECT, SUBJECT,column_text,Sale Price,,down,,,,,,,,1,ok
+14,2,SUBJECT, SUBJECT,column_text,Sale Price/Gross Liv. Area,,down,,,,,,,,1,bad
+,2,SUBJECT, SUBJECT,column_text,Data Source(s),,down,,,,,,,,1,empty
+,2,SUBJECT, SUBJECT,column_text,Verification Source(s),,down,,,,,,,,1,empty
+,2,DESCRIPTION, DESCRIPTION,column_text,Sale or Financing,,down,,,,,,,,1,empty
+,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,1,empty
+,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,1,empty
+e-14,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,1,ok
+e-15,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,1,ok
+e-16,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,1,ok
+21,2,DESCRIPTION, DESCRIPTION,column_text,Leasehold/Fee Simple,,down,,,,,,,,1,ok
+22,2,DESCRIPTION, DESCRIPTION,column_text,Site,,down,,,,,,,,1,ok
+e-5,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,1,ok
+e-6,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,1,ok
+e-7,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,1,ok
+24,2,DESCRIPTION, DESCRIPTION,column_text,Design (Style),,down,,,,,,,,1,ok
+25,2,DESCRIPTION, DESCRIPTION,column_text,Quality of Construction,,down,,,,,,,,1,ok
+e-17,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,1,ok
+26,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,1,ok
+27,2,DESCRIPTION, DESCRIPTION,column_text,Condition,,down,,,,,,,,1,ok
+28,2,,,area_text,,,,,,,,125,135,325,330,ok
+29,2,,,area_text,,,,,,,,145,155,325,330,ok
+30,2,,,area_text,,,,,,,,170,185,325,330,ok
+31,2,DESCRIPTION, DESCRIPTION,column_text,Gross Living Area,,down,,,,,,,,1,ok
+e-18,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,1,ok
+e-19,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,1,ok
+e-20,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,1,ok
+e-21,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,1,ok
+e-22,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,1,ok
+e-23,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,1,ok
+e-24,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,1,ok
+34,2,DESCRIPTION, DESCRIPTION,column_text,Functional Utility,,down,,,,,,,,1,ok
+35,2,DESCRIPTION, DESCRIPTION,column_text,Heating/Cooling,,down,,,,,,,,1,ok
+36,2,DESCRIPTION, DESCRIPTION,column_text,Energy Efficient Items,,down,,,,,,,,1,ok
+37,2,DESCRIPTION, DESCRIPTION,column_text,Garage/Carport,,down,,,,,,,,1,ok
+38,2,DESCRIPTION, DESCRIPTION,column_text,Porch/Patio/Deck,,down,,,,,,,,1,ok
+45a,2,,,area_text,,,,,,,,180,320,85,90,ok
+46a,2,,,area_text,,,,,,,,180,320,95,105,ok
+47a,2,,,area_text,,,,,,,,190,320,110,115,ok
+48a,2,,,area_text,,,,,,,,290,320,120,125,ok
+49a,2,,,area_text,,,,,,,,190,240,135,140,ok
+e-2a,2,,,area_text,,,,,,,,190,320,145,150,ok
+e-25a,2,,,area_text,,,,,,,,190,320,145,150,ok
+51a,2,,,area_text,,,,,,,,190,320,160,165,ok
+52a,2,DESCRIPTION, DESCRIPTION,column_text,Sale or Financing,,down,,,,,,,,2,ok
+e-26a,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,2,ok
+e-27a,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,2,ok
+e-28a,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,2,ok
+e-29a,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,2,ok
+e-30a,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,2,ok
+e-31a,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,2,ok
+e-14a,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,2,ok
+e-15a,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,2,ok
+e-16a,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,2,ok
+60a,2,DESCRIPTION, DESCRIPTION,column_text,Leasehold/Fee Simple,,down,,,,,,,,2,ok
+62a,2,DESCRIPTION, DESCRIPTION,column_text,Site,,down,,,,,,,,2,ok
+e-5a,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,2,ok
+e-6a,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,2,ok
+e-7a,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,2,ok
+66a,2,DESCRIPTION, DESCRIPTION,column_text,Design (Style),,down,,,,,,,,2,ok
+68a,2,DESCRIPTION, DESCRIPTION,column_text,Quality of Construction,,down,,,,,,,,2,ok
+e-17a,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,2,ok
+70a,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,2,ok
+72a,2,DESCRIPTION, DESCRIPTION,column_text,Condition,,down,,,,,,,,2,ok
+75a,2,,,area_text,,,,,,,,200,210,325,330,ok
+76a,2,,,area_text,,,,,,,,220,230,325,330,ok
+77a,2,,,area_text,,,,,,,,245,255,325,330,ok
+79a,2,DESCRIPTION, DESCRIPTION,column_text,Gross Living Area,,down,,,,,,,,2,ok
+e-18a,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,2,ok
+e-19a,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,2,ok
+e-20a,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,2,ok
+e-21a,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,2,ok
+e-22a,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,2,ok
+e-23a,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,2,ok
+e-24a,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,2,ok
+85a,2,DESCRIPTION, DESCRIPTION,column_text,Functional Utility,,down,,,,,,,,2,ok
+87a,2,DESCRIPTION, DESCRIPTION,column_text,Heating/Cooling,,down,,,,,,,,2,ok
+89a,2,DESCRIPTION, DESCRIPTION,column_text,Energy Efficient Items,,down,,,,,,,,2,ok
+91a,2,DESCRIPTION, DESCRIPTION,column_text,Garage/Carport,,down,,,,,,,,2,ok
+93a,2,DESCRIPTION, DESCRIPTION,column_text,Porch/Patio/Deck,,down,,,,,,,,2,ok
+101a,2,,,checkbox,+,,left,X,,,,,,,1,ok
+102a,2,,,checkbox,-,,left,X,,,,,,,1,ok
+53a,2,  +(-)$ Adjustment,,column_text,Sale or Financing,,down,,,,,,,,1,ok
+55a,2,,,area_text,,,,,,,,290,330,190,200,ok
+57a,2,  +(-)$ Adjustment,,column_text,Date of Sale/Time,,down,,,,,,,,1,ok
+59a,2,  +(-)$ Adjustment,,column_text,Location,,down,,,,,,,,1,ok
+61a,2,  +(-)$ Adjustment,,column_text,Leasehold/Fee Simple,,down,,,,,,,,1,ok
+63a,2,  +(-)$ Adjustment,,column_text,Site,,down,,,,,,,,1,ok
+65a,2,  +(-)$ Adjustment,,column_text,View,,down,,,,,,,,1,ok
+67a,2,  +(-)$ Adjustment,,column_text,Design (Style),,down,,,,,,,,1,ok
+69a,2,,,area_text,,,,,,,,290,330,275,285,ok
+71a,2,  +(-)$ Adjustment,,column_text,Actual Age,,down,,,,,,,,1,ok
+73a,2,  +(-)$ Adjustment,,column_text,Condition,,down,,,,,,,,1,ok
+74a,2,  +(-)$ Adjustment,,column_text,Above Grade,,down,,,,,,,,1,ok
+78a,2,  +(-)$ Adjustment,,column_text,Room Count,,down,,,,,,,,1,ok
+80a,2,  +(-)$ Adjustment,,column_text,Gross Living Area,,down,,,,,,,,1,ok
+82a,2,  +(-)$ Adjustment,,column_text,Basement & Finished,,down,,,,,,,,1,ok
+84a,2,  +(-)$ Adjustment,,column_text,Rooms Below Grade,,down,,,,,,,,1,ok
+86a,2,,,area_text,,,,,,,,290,330,370,380,ok
+88a,2,  +(-)$ Adjustment,,column_text,Heating/Cooling,,down,,,,,,,,1,ok
+90a,2,  +(-)$ Adjustment,,column_text,Energy Efficient Items,,down,,,,,,,,1,ok
+92a,2,,,area_text,,,,,,,,290,335,410,420,ok
+94a,2,  +(-)$ Adjustment,,column_text,Porch/Patio/Deck,,down,,,,,,,,1,ok
+103a,2,,,area_text,,,,,,,,290,320,470,475,ok
+103aa,2,Net Adj.,,text,,,,,,,,,,,1,
+103ba,2,Gross Adj.,,text,,,,,,,,,,,1,
+104a,2,,,area_text,,,,,,,,290,320,490,500,ok
+45b,2,COMPARABLE SALE # 1,,text,,,down,,,,1,50,,,1,ok
+46b,2,COMPARABLE SALE # 2,,column_text,Address,,down,,,,,,,,1,ok
+47b,2,COMPARABLE SALE # 2,,column_text,Proximity to Subject,,down,,,,,,,,1,ok
+48b,2,,,area_text,,,,,,,,410,450,120,125,ok
+49b,2,,,area_text,,,,,,,,330,380,135,140,ok
+e-25b,2,COMPARABLE SALE # 2,,column_text,Data Source(s),,down,,,,,,,,1,ok
+e-2b,2,COMPARABLE SALE # 2,,column_text,Data Source(s),,down,,,,,,,,1,ok
+51b,2,COMPARABLE SALE # 2,,column_text,Verification Source(s),,down,,,,,,,,1,ok
+52b,2,DESCRIPTION, DESCRIPTION,column_text,Sale or Financing,,down,,,,,,,,3,ok
+e-26b,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,3,ok
+e-27b,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,3,ok
+e-28b,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,3,ok
+e-29b,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,3,ok
+e-30b,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,3,ok
+e-31b,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,3,ok
+e-14b,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,3,ok
+e-15b,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,3,ok
+e-16b,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,3,ok
+60b,2,DESCRIPTION, DESCRIPTION,column_text,Leasehold/Fee Simple,,down,,,,,,,,3,ok
+62b,2,DESCRIPTION, DESCRIPTION,column_text,Site,,down,,,,,,,,3,ok
+e-5b,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,3,ok
+e-6b,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,3,ok
+e-7b,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,3,ok
+66b,2,DESCRIPTION, DESCRIPTION,column_text,Design (Style),,down,,,,,,,,3,ok
+68b,2,DESCRIPTION, DESCRIPTION,column_text,Quality of Construction,,down,,,,,,,,3,ok
+e-17b,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,3,ok
+70b,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,3,ok
+72b,2,DESCRIPTION, DESCRIPTION,column_text,Condition,,down,,,,,,,,3,ok
+75b,2,,,area_text,,,,,,,,330,340,325,330,ok
+76b,2,,,area_text,,,,,,,,350,360,325,330,ok
+77b,2,,,area_text,,,,,,,,370,385,325,330,ok
+79b,2,DESCRIPTION, DESCRIPTION,column_text,Gross Living Area,,down,,,,,,,,3,ok
+e-18b,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,3,ok
+e-19b,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,3,ok
+e-20b,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,3,ok
+e-21b,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,3,ok
+e-22b,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,3,ok
+e-23b,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,3,ok
+e-24b,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,3,ok
+85b,2,DESCRIPTION, DESCRIPTION,column_text,Functional Utility,,down,,,,,,,,3,ok
+87b,2,DESCRIPTION, DESCRIPTION,column_text,Heating/Cooling,,down,,,,,,,,3,ok
+89b,2,DESCRIPTION, DESCRIPTION,column_text,Energy Efficient Items,,down,,,,,,,,3,ok
+91b,2,DESCRIPTION, DESCRIPTION,column_text,Garage/Carport,,down,,,,,,,,3,ok
+93b,2,DESCRIPTION, DESCRIPTION,column_text,Porch/Patio/Deck,,down,,,,,,,,3,ok
+101b,2,,,checkbox,+,,left,X,,,,,,,2,ok
+102b,2,,,checkbox,-,,left,X,,,,,,,2,ok
+53b,2,  +(-)$ Adjustment,,column_text,Sale or Financing,,down,,,,,,,,2,ok
+55b,2,  +(-)$ Adjustment,,column_text,Concessions,,down,,,,,,,,2,ok
+57b,2,  +(-)$ Adjustment,,column_text,Date of Sale/Time,,down,,,,,,,,2,ok
+59b,2,  +(-)$ Adjustment,,column_text,Location,,down,,,,,,,,2,ok
+61b,2,  +(-)$ Adjustment,,column_text,Leasehold/Fee Simple,,down,,,,,,,,2,ok
+63b,2,  +(-)$ Adjustment,,column_text,Site,,down,,,,,,,,2,ok
+65b,2,  +(-)$ Adjustment,,column_text,View,,down,,,,,,,,2,ok
+67b,2,  +(-)$ Adjustment,,column_text,Design (Style),,down,,,,,,,,2,ok
+69b,2,,,area_text,,,,,,,,420,450,275,290,ok
+71b,2,  +(-)$ Adjustment,,column_text,Actual Age,,down,,,,,,,,2,ok
+73b,2,  +(-)$ Adjustment,,column_text,Condition,,down,,,,,,,,2,ok
+74b,2,  +(-)$ Adjustment,,column_text,Above Grade,,down,,,,,,,,2,ok
+78b,2,  +(-)$ Adjustment,,column_text,Room Count,,down,,,,,,,,2,bad
+80b,2,  +(-)$ Adjustment,,column_text,Gross Living Area,,down,,,,,,,,2,bad
+82b,2,  +(-)$ Adjustment,,column_text,Basement & Finished,,down,,,,,,,,2,ok
+84b,2,  +(-)$ Adjustment,,column_text,Rooms Below Grade,,down,,,,,,,,2,ok
+86b,2,,,area_text,,,,,,,,420,450,275,290,ok
+88b,2,  +(-)$ Adjustment,,column_text,Heating/Cooling,,down,,,,,,,,2,ok
+90b,2,  +(-)$ Adjustment,,column_text,Energy Efficient Items,,down,,,,,,,,2,ok
+92b,2,  +(-)$ Adjustment,,column_text,Garage/Carport,,down,,,,,,,,2,ok
+94b,2,  +(-)$ Adjustment,,column_text,Porch/Patio/Deck,,down,,,,,,,,2,ok
+103b,2,,,area_text,,,,,,,,420,450,470,475,ok
+103ab,2,Net Adj.,,text,,,,,,,,,,,2,
+103bb,2,Gross Adj.,,text,,,,,,,,,,,2,
+104b,2,,,area_text,,,,,,,,420,450,490,500,ok
+45c,2,COMPARABLE SALE # 2,,text,,,down,,,,1,50,,,1,ok
+46c,2,COMPARABLE SALE # 3,,column_text,Address,,down,,,,,,,,1,ok
+47c,2,COMPARABLE SALE # 3,,column_text,Proximity to Subject,,down,,,,,,,,1,ok
+48c,2,,,area_text,,,,,,,,530,580,120,125,ok
+49c,2,,,area_text,,,,,,,,460,500,135,140,ok
+e-25c,2,COMPARABLE SALE # 3,,column_text,Data Source(s),,down,,,,,,,,1,ok
+e-2c,2,COMPARABLE SALE # 3,,column_text,Data Source(s),,down,,,,,,,,1,ok
+51c,2,COMPARABLE SALE # 3,,column_text,Verification Source(s),,down,,,,,,,,1,ok
+52c,2,DESCRIPTION, DESCRIPTION,column_text,Sale or Financing,,down,,,,,,,,4,ok
+e-26c,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,4,ok
+e-27c,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,4,ok
+e-28c,2,DESCRIPTION, DESCRIPTION,column_text,Concessions,,down,,,,,,,,4,ok
+e-29c,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,4,ok
+e-30c,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,4,ok
+e-31c,2,DESCRIPTION, DESCRIPTION,column_text,Date of Sale/Time,,down,,,,,,,,4,ok
+e-14c,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,4,ok
+e-15c,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,4,ok
+e-16c,2,DESCRIPTION, DESCRIPTION,column_text,Location,,down,,,,,,,,4,ok
+60c,2,DESCRIPTION, DESCRIPTION,column_text,Leasehold/Fee Simple,,down,,,,,,,,4,ok
+62c,2,DESCRIPTION, DESCRIPTION,column_text,Site,,down,,,,,,,,4,ok
+e-5c,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,4,ok
+e-6c,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,4,ok
+e-7c,2,DESCRIPTION, DESCRIPTION,column_text,View,,down,,,,,,,,4,ok
+66c,2,DESCRIPTION, DESCRIPTION,column_text,Design (Style),,down,,,,,,,,4,ok
+68c,2,DESCRIPTION, DESCRIPTION,column_text,Quality of Construction,,down,,,,,,,,4,ok
+e-17c,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,4,ok
+70c,2,DESCRIPTION, DESCRIPTION,column_text,Actual Age,,down,,,,,,,,4,ok
+72c,2,DESCRIPTION, DESCRIPTION,column_text,Condition,,down,,,,,,,,4,ok
+75c,2,,,area_text,,,,,,,,450,465,325,330,ok
+76c,2,,,area_text,,,,,,,,475,490,325,330,ok
+77c,2,,,area_text,,,,,,,,500,520,325,330,ok
+79c,2,DESCRIPTION, DESCRIPTION,area_text,Gross Living Area,,down,,,,,,,,4,ok
+e-18c,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,4,ok
+e-19c,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,4,ok
+e-20c,2,DESCRIPTION, DESCRIPTION,column_text,Basement & Finished,,down,,,,,,,,4,ok
+e-21c,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,4,ok
+e-22c,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,4,ok
+e-23c,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,4,ok
+e-24c,2,DESCRIPTION, DESCRIPTION,column_text,Rooms Below Grade,,down,,,,,,,,4,ok
+85c,2,DESCRIPTION, DESCRIPTION,column_text,Functional Utility,,down,,,,,,,,4,ok
+87c,2,DESCRIPTION, DESCRIPTION,column_text,Heating/Cooling,,down,,,,,,,,4,ok
+89c,2,DESCRIPTION, DESCRIPTION,column_text,Energy Efficient Items,,down,,,,,,,,4,ok
+91c,2,DESCRIPTION, DESCRIPTION,column_text,Garage/Carport,,down,,,,,,,,4,ok
+93c,2,DESCRIPTION, DESCRIPTION,column_text,Porch/Patio/Deck,,down,,,,,,,,4,ok
+101c,2,,,checkbox,+,,left,X,,,,,,,3,ok
+102c,2,,,checkbox,-,,left,X,,,,,,,3,ok
+53c,2,  +(-)$ Adjustment,,column_text,Sale or Financing,,down,,,,,,,,3,ok
+55c,2,  +(-)$ Adjustment,,column_text,Concessions,,down,,,,,,,,3,ok
+57c,2,  +(-)$ Adjustment,,column_text,Date of Sale/Time,,down,,,,,,,,3,ok
+59c,2,  +(-)$ Adjustment,,column_text,Location,,down,,,,,,,,3,ok
+61c,2,  +(-)$ Adjustment,,column_text,Leasehold/Fee Simple,,down,,,,,,,,3,ok
+63c,2,  +(-)$ Adjustment,,column_text,Site,,down,,,,,,,,3,ok
+65c,2,  +(-)$ Adjustment,,column_text,View,,down,,,,,,,,3,ok
+67c,2,  +(-)$ Adjustment,,column_text,Design (Style),,down,,,,,,,,3,ok
+69c,2,  +(-)$ Adjustment,,column_text,Quality of Construction,,down,,,,,,,,3,ok
+71c,2,  +(-)$ Adjustment,,column_text,Actual Age,,down,,,,,,,,3,ok
+73c,2,  +(-)$ Adjustment,,column_text,Condition,,down,,,,,,,,3,ok
+74c,2,  +(-)$ Adjustment,,column_text,Above Grade,,down,,,,,,,,2,ok
+78c,2,  +(-)$ Adjustment,,column_text,Room Count,,down,,,,,,,,3,bad
+80c,2,  +(-)$ Adjustment,,column_text,Gross Living Area,,down,,,,,,,,3,bad
+82c,2,  +(-)$ Adjustment,,column_text,Basement & Finished,,down,,,,,,,,3,ok
+84c,2,  +(-)$ Adjustment,,column_text,Rooms Below Grade,,down,,,,,,,,3,ok
+86c,2,  +(-)$ Adjustment,,column_text,Functional Utility,,down,,,,,,,,3,ok
+88c,2,  +(-)$ Adjustment,,column_text,Heating/Cooling,,down,,,,,,,,3,ok
+90c,2,  +(-)$ Adjustment,,column_text,Energy Efficient Items,,down,,,,,,,,3,ok
+92c,2,  +(-)$ Adjustment,,column_text,Garage/Carport,,down,,,,,,,,3,ok
+94c,2,  +(-)$ Adjustment,,column_text,Porch/Patio/Deck,,down,,,,,,,,3,ok
+103c,2,,,area_text,,,,,,,,550,580,470,475,ok
+103ac,2,Net Adj.,,text,,,,,,,,,,,3,
+103bc,2,Gross Adj.,,text,,,,,,,,,,,3,
+104c,2,,,area_text,,,,,,,,550,580,490,500,ok
+105,2,I,,checkbox,did,,left,X,,,,,,,,ok
+106,2,I,,checkbox,did not research the sale or transfer history of the subject property and comparable sales.,,left,X,,,,,,,,ok
+107,2,"If not, explain",,text,,,,,,3,,4000,,,,ok
+108,2,My research,,checkbox,did,,left,X,,,,,,,,ok
+109,2,My research,,checkbox,did not reveal any prior sales or transfers of the subject property for the three years prior to the effective date of this appraisal.,,left,X,,,,,,,,ok
+110,2,,,area_text,,,,,,,,105,500,555,560,ok
+111,2,My research,,checkbox,did,,left,X,,,,,,,,ok
+112,2,My research,,checkbox,did not reveal any prior sales or transfers of the comparable sales for the prior year to the date of sale of the comparable sale.,,left,X,,,,,,,,ok
+113,2,,,area_text,,,,,,,,105,500,580,585,ok
+114,2, SUBJECT, SUBJECT,column_text,Date of Prior Sale/Transfer,,down,,,,,,,,2,ok
+115,2, SUBJECT, SUBJECT,column_text,Price of Prior Sale/Transfer,,down,,,,,,,,2,ok
+116,2,,,area_text,,,,,,,,150,220,640,645,ok
+117,2,,,area_text,,,,,,,,150,220,650,655,ok
+118a,2,COMPARABLE SALE # 1,,column_text,Date of Prior Sale/Transfer,,down,,,,,,,,2,ok
+119a,2,COMPARABLE SALE # 1,,column_text,Price of Prior Sale/Transfer,,down,,,,,,,,2,ok
+120a,2,,,area_text,,,,,,,,260,320,640,645,ok
+121a,2,,,area_text,,,,,,,,260,320,650,655,ok
+118b,2,COMPARABLE SALE # 2,,column_text,Date of Prior Sale/Transfer,,down,,,,,,,,2,ok
+119b,2,COMPARABLE SALE # 2,,column_text,Price of Prior Sale/Transfer,,down,,,,,,,,2,ok
+120b,2,,,area_text,,,,,,,,360,420,640,645,ok
+121b,2,,,area_text,,,,,,,,360,420,650,655,ok
+118c,2,COMPARABLE SALE # 3,,column_text,Date of Prior Sale/Transfer,,down,,,,,,,,2,ok
+119c,2,COMPARABLE SALE # 3,,column_text,Price of Prior Sale/Transfer,,down,,,,,,,,2,ok
+120c,2,,,area_text,,,,,,,,460,520,640,645,ok
+121c,2,,,area_text,,,,,,,,360,520,650,655,ok
+122,2,Analysis of prior sale or transfer history of the subject property and comparable sales,,text,,,,,,6,,4000,,,,ok
+123,2,Summary of Sales Comparison Approach,,text,,,,,,8,,8000,,,,ok
+124,2,Indicated Value by Sales Comparison Approach,,text,,,,,,1,,,,,,ok
+125,2,Indicated Value by: Sales Comparison Approach,,text,,,,,,1,,15,,,,ok
+126,2,Cost Approach (if developed),,text,,,,,,1,,15,,,,ok
+127,2,Income Approach (if developed),,text,,,,,,1,,15,,,,ok
+128,2,,,area_text,,,,,,3,,40,590,850,890,ok
+129,2,,,checkbox,This appraisal is made,,right,X,,,,,,,,ok
+130,2,This appraisal is made,,checkbox,subject to completion per plans and specifications on the basis of a hypothetical condition that the improvements have been,,left,X,,,,,,,,ok
+131,2,"subject to the following repairs or alterations on the basis of a hypothetical condition that the repairs or alterations have been completed, or",,checkbox,"subject to the following repairs or alterations on the basis of a hypothetical condition that the repairs or alterations have been completed, or",,left,X,,,,,,,,ok
+132,2,subject to the,,checkbox,subject to the,,left,X,,,,,,,,ok
+133,2,following required inspection based on the extraordinary assumption that the condition or deficiency does not require alteration or repair:,,text,,,,,,2,,50,,,,ok
+134,2,,as of,text,,,left,,,1,,20,,,,ok
+135,2,as of,,text,,,right,,,1,,,,,,ok
+2,2,Uniform Residential Appraisal Report,,fixed,,,,Uniform Residential Appraisal Report,File #,1,,,,,,ok
+3,3,File #,File No.,text,,,,,,1,,,,,,ok
+4,3,File #,File No.,text,,,,,,1,,,,,,ok
+5,3,,File #,text,,,first,,,20,,4000,,,,ok
+6,3,Support for the opinion of site value (summary of comparable land sales or other methods for estimating site value),,text,,,,,,4,,4000,,,,ok
+7,3,ESTIMATED,,checkbox,REPRODUCTION OR,,left,X,,,,,,,,ok
+8,3,ESTIMATED,,checkbox,REPLACEMENT COST NEW,,left,X,,,,,,,,ok
+14,3,OPINION OF SITE VALUE...........................................................................=$,,text,,,,,,1,,,,,,ok
+9,3,Source of cost data,,text,,,,,Dwelling,1,,,,,,ok
+15,3,Dwelling,,text,,,right,,,1,,10,,,,ok
+16,3,,Sq. Ft. @ $,text,,,right,,,1,,10,,,1,ok
+17,3,,=$,text,,,,,,1,,30,,,1,ok
+10,3,Quality rating from cost service,,text,,,,,,1,,,,,,ok
+11,3,Effective date of cost data,,text,,,,,,1,,,,,,ok
+18,3,Dwelling,,text,,,down,,,1,,,,,,ok
+19,3,,Sq. Ft. @ $,text,,,left,,,1,,,,,2,ok
+20,3,,Sq. Ft. @ $,text,,,right,,,1,,,,,2,ok
+21,3,,=$,text,,,,,,1,,30,,,2,ok
+22,3,"Comments on Cost Approach (gross living area calculations, depreciation, etc.)",,text,,,,,,1,,50,,,,ok
+23,3,,,area_text,,,,,,,,550,580,615,620,ok
+12,3,,,area_text,,,,,,,,40,300,625,650,ok
+24,3,,Sq. Ft. @ $,text,,,left,,,1,,,,,3,ok
+25,3,,Sq. Ft. @ $,text,,,right,,,1,,,,,3,ok
+26,3,,=$,text,,,,,,1,,30,,,3,ok
+27,3,,=$,text,,,,,,1,,30,,,4,ok
+29,3,Physical,,text,,,down,,,1,,,,,,ok
+31,3,Functional,,text,,,down,,,1,,,,,,ok
+33,3,External,,text,,,down,,,1,,,,,,ok
+34,3,,=$,text,,,,,,1,,30,,,5,ok
+35,3,Depreciated Cost of Improvements..............................................................=$,,text,,,,,,1,,,,,,ok
+36,3,'As-is' Value of Site Improvements..............................................................=$,,text,,,,,,1,,,,,,ok
+13,3,Estimated Remaining Economic Life (HUD and VA only),,text,,,,,,1,,,,,,ok
+37,3,Indicated Value By Cost Approach.........................................................=$,,text,,,,,,1,,,,,,ok
+38,3,Estimated Monthly Market Rent $,,text,,,,,,1,,,,,,ok
+39,3,X Gross Rent Multiplier,,text,,,,,,1,,,,,,ok
+40,3,Indicated Value by Income Approach,,text,,,left,,,1,,,,,,ok
+41,3,Summary of Income Approach (including support for market rent and GRM),,text,,,,,,2,,4000,,,,ok
+44,3,Unit type(s),,checkbox,Detached,,left,X,,,,,,,,again
+45,3,Unit type(s),,checkbox,Attached,,left,X,,,,,,,,again
+46,3,Legal name of project,,text,,,,,,1,,,,,,again
+47,3,Total number of phases,,text,,,,,,1,,,,,,again
+48,3,Total number of units,,text,,,,,,1,,,,,,again
+49,3,Total number of units sold,,text,,,,,,1,,,,,,again
+50,3,Total number of units rented,,text,,,,,,1,,,,,,again
+51,3,Total number of units for sale,,text,,,,,,1,,,,,,again
+52,3,Data source(s),,text,,,,,,1,,,,,,again
+53,3,Was the project created by the conversion of existing building(s) into a PUD?,,checkbox,Yes,,left,X,,,,,,,,again
+54,3,Was the project created by the conversion of existing building(s) into a PUD?,,checkbox,No,,left,X,,,,,,,,again
+55,3,"If Yes, date of conversion",,text,,,,,,1,,,,,,again
+56,3,Does the project contain any multi-dwelling units?,,checkbox,Yes,,left,X,,,,,,,,again
+57,3,Does the project contain any multi-dwelling units?,,checkbox,No,,left,X,,,,,,,,again
+5,3,Name,,text,,,,,,,,,,,1,ok
+5,6,Name,,text,,,,,,,,,,,1,ok
+6,6,Company Name,,text,,,,,,,,,,,1,ok
+7,6,Company Address,,text,,,,,,,,,,,1,ok
+8a,6,,,area_text,,,,,,,,40,120,685,695,again
+8b,6,,,area_text,,,,,,,,40,120,685,695,again
+8c,6,,,area_text,,,,,,,,40,120,685,695,again
+9,6,Telephone Number,,text,,,,,,,,,,,1,ok
+10,6,Email Address,,text,,,,,,,,,,,1,ok
+11,6,Date of Signature and Report,,text,,,,,,,,,,,,ok
+12,6,Effective Date of Appraisal,,text,,,,,,,,,,,,ok
+13,6,State Certification #,,text,,,,,,,,,,,2,ok
+14,6,or State License #,,text,,,,,,,,,,,,ok
+15,6,or Other (describe),,text,,,,,,,,,,,,ok
+16,6,State #,,text,,,,,,,,,,,,ok
+17,6,State,,text,,,,,,,,,,,2,ok
+18,6,Expiration Date of Certification or License,,text,,,,,,,,,,,2,ok
+19,6,ADDRESS OF PROPERTY APPRAISED,,text,,,down,,,,,,,,,again
+20a,6,,,area_text,,,,,,,,40,130,840,850,again
+20b,6,,,area_text,,,,,,,,40,130,840,850,again
+20c,6,,,area_text,,,,,,,,40,130,840,850,again
+21,6,APPRAISED VALUE OF SUBJECT PROPERTY $,,text,,,,,,,,,,,,ok
+22,6,Name,,text,,,,,,,,,,,3,ok
+23,6,Company Name,,text,,,,,,,,,,,3,ok
+24,6,Company Address,,text,,,,,,2,,20,,,3,ok
+26,6,Email Address,,text,,,,,,,,,,,3,ok
+27,6,Name,,text,,,,,,,,,,,2,ok
+28,6,Company Name,,text,,,,,,,,,,,2,ok
+29,6,Company Address,,text,,,,,,,,,,,2,ok
+31,6,Telephone Number,,text,,,,,,,,,,,2,ok
+32,6,Email Address,,text,,,,,,,,,,,2,ok
+33,6,Date of Signature,,text,,,,,,,,,,,,ok
+34,6,State Certification #,,text,,,,,,,,,,,1,ok
+35,6,or State License #,,text,,,,,,,,,,,,ok
+36,6,State,,text,,,,,,,,,,,1,ok
+37,6,Expiration Date of Certification or License,,text,,,,,,,,,,,1,ok
+38,6,,,checkbox,Did not inspect subject property,,left,X,,,,,,,,again
+39,6,,,checkbox,Did inspect exterior of subject property from street,,left,X,,,,,,,,again
+40,6,Date of Inspection,,text,,,,,,,,,,,1,ok
+41,6,,,checkbox,Did inspect interior and exterior of subject property,,,X,,,,,,,,again
+42,6,Date of Inspection,,text,,,,,,,,,,,2,ok
+43,6,,,checkbox,Did not inspect exterior of comparable sales from street,,left,X,,,,,,,,again
+44,6,,,checkbox,Did inspect exterior of comparable sales from street,,left,X,,,,,,,,again
+45,6,Date of Inspection,,text,,,,,,,,,,,3,ok
+,6,,,,,,,,,,,,,,,

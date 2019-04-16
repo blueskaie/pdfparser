@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?><VALUATION_RESPONSE MISMOVersionID="2.6GSE">
+<REPORT AppraisalFormType="FNM1004" AppraisalFormVersionIdentifier="2005" AppraisalPurposeType="Refinance" AppraisalPurposeTypeOtherDescription="" AppraisalSoftwareProductName="a la mode - WinTOTAL" AppraisalSoftwareProductVersionIdentifier="5.221" AppraiserAdditionalFileIdentifier="" AppraiserAdditionalFileIdentifierName="PADULASUE1" AppraiserFileIdentifier="PADULASUE1" AppraiserReportSignedDate="2013-02-21" OtherLoanPurposeDescription="" SupervisorReportSignedDate="" USPAPReportDescription="142 ERIE STREET" _TitleDescription="Uniform Residential Appraisal Report">
+<FORM AppraisalReportContentIdentifier="UAD Version 9/2011" AppraisalReportContentIsPrimaryFormIndicator="Y" AppraisalReportContentName="URAR [Form 1004][03/05][UAD Version 9/2011]" AppraisalReportContentSequenceIdentifier="1" AppraisalReportContentType="AppraisalForm"/>
+<FORM AppraisalReportContentIdentifier="1004MC" AppraisalReportContentIsPrimaryFormIndicator="N" AppraisalReportContentName="Market Conditions Addendum to the Appraisal Report [Form 1004MC][03/09]" AppraisalReportContentSequenceIdentifier="2" AppraisalReportContentType="Addendum">
+<MARKET>
+<MARKET_INVENTORY _TrendType="Stable" _Type="TotalSales"/>
+<MARKET_INVENTORY _Count="1" _MonthRangeType="Prior4To6Months" _Type="TotalSales"/>
+<MARKET_INVENTORY _Count="1" _MonthRangeType="Prior7To12Months" _Type="TotalSales"/>
+<MARKET_INVENTORY _Count="2" _MonthRangeType="Last3Months" _Type="TotalSales"/>
+<MARKET_INVENTORY _TrendType="Increasing" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _Count="0.17" _MonthRangeType="Prior7To12Months" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _Count="0.33" _MonthRangeType="Prior4To6Months" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _Count="0.67" _MonthRangeType="Last3Months" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _TrendType="Stable" _Type="TotalListings"/>
+<MARKET_INVENTORY _Count="3" _MonthRangeType="Prior7To12Months" _Type="TotalListings"/>
+<MARKET_INVENTORY _Count="0" _MonthRangeType="Prior4To6Months" _Type="TotalListings"/>
+<MARKET_INVENTORY _Count="0" _MonthRangeType="Last3Months" _Type="TotalListings"/>
+<MARKET_INVENTORY _TrendType="Declining" _Type="Supply"/>
+<MARKET_INVENTORY _Count="17.6" _MonthRangeType="Prior7To12Months" _Type="Supply"/>
+<MARKET_INVENTORY _Count="0" _MonthRangeType="Prior4To6Months" _Type="Supply"/>
+<MARKET_INVENTORY _Count="0" _MonthRangeType="Last3Months" _Type="Supply"/>
+<MARKET_INVENTORY _TrendType="Stable" _Type="MedianSalesPrice"/>
+<MARKET_INVENTORY _Count="254000" _MonthRangeType="Prior7To12Months" _Type="MedianSalesPrice"/>
+<MARKET_INVENTORY _Count="243000" _MonthRangeType="Prior4To6Months" _Type="MedianSalesPrice"/>
+<MARKET_INVENTORY _Count="235000" _MonthRangeType="Last3Months" _Type="MedianSalesPrice"/>
+<MARKET_INVENTORY _TrendType="Increasing" _Type="MedianSalesDOM"/>
+<MARKET_INVENTORY _Count="1" _MonthRangeType="Prior7To12Months" _Type="MedianSalesDOM"/>
+<MARKET_INVENTORY _Count="82" _MonthRangeType="Prior4To6Months" _Type="MedianSalesDOM"/>
+<MARKET_INVENTORY _Count="210" _MonthRangeType="Last3Months" _Type="MedianSalesDOM"/>
+<MARKET_INVENTORY _TrendType="Stable" _Type="MedianListPrice"/>
+<MARKET_INVENTORY _Count="265000" _MonthRangeType="Prior7To12Months" _Type="MedianListPrice"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior4To6Months" _Type="MedianListPrice"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Last3Months" _Type="MedianListPrice"/>
+<MARKET_INVENTORY _TrendType="Stable" _Type="MedianListDOM"/>
+<MARKET_INVENTORY _Count="140" _MonthRangeType="Prior7To12Months" _Type="MedianListDOM"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior4To6Months" _Type="MedianListDOM"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Last3Months" _Type="MedianListDOM"/>
+<MARKET_INVENTORY _TrendType="Stable" _Type="MedianSalesToListRatio"/>
+<MARKET_INVENTORY _Count="94.00%" _MonthRangeType="Prior7To12Months" _Type="MedianSalesToListRatio"/>
+<MARKET_INVENTORY _Count="90.00%" _MonthRangeType="Prior4To6Months" _Type="MedianSalesToListRatio"/>
+<MARKET_INVENTORY _Count="93.00%" _MonthRangeType="Last3Months" _Type="MedianSalesToListRatio"/>
+<SUBJECT_PROJECT MarketTrendsReconciliationComment="" NeighborhoodMarketabilityFactorsDescription="" ProjectName="">
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior7To12Months" _Type="TotalSales"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior4To6Months" _Type="TotalSales"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Last3Months" _Type="TotalSales"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior7To12Months" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior4To6Months" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Last3Months" _Type="AbsorptionRate"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior7To12Months" _Type="TotalListings"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior4To6Months" _Type="TotalListings"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Last3Months" _Type="TotalListings"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior7To12Months" _Type="Supply"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Prior4To6Months" _Type="Supply"/>
+<MARKET_INVENTORY _Count="" _MonthRangeType="Last3Months" _Type="Supply"/>
+</SUBJECT_PROJECT>
+</MARKET>
+</FORM>
+<EMBEDDED_FILE MIMEType="application/pdf" _EncodingType="Base64" _Name="AppraisalReport" _Type="PDF">
+<DOCUMENT/>
+</EMBEDDED_FILE>
+</REPORT>
+<PROPERTY _City="DUNMORE" _County="LACKAWANNA" _CurrentOccupancyType="OwnerOccupied" _PostalCode="18510" _RightsType="FeeSimple" _RightsTypeOtherDescription="" _State="PA" _StreetAddress="142 ERIE STREET">
+<_OWNER _Name="PATRICK M &amp; CAROL PADULA">
+<PROPERTY_OWNER_EXTENSION>
+<PROPERTY_OWNER_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PROPERTY_OWNER_EXTENSION_SECTION_DATA>
+<PROPERTY_OWNER GSEPropertyOwnerName="PATRICK M &amp; CAROL PADULA"/>
+</PROPERTY_OWNER_EXTENSION_SECTION_DATA>
+</PROPERTY_OWNER_EXTENSION_SECTION>
+</PROPERTY_OWNER_EXTENSION>
+</_OWNER>
+<_LEGAL_DESCRIPTION _TextDescription="SEE INSTRUMENT # 201211668" _Type="Other" _TypeOtherDescription="LongLegal"/>
+<_IDENTIFICATION AssessorsParcelIdentifier="15708-020-024" CensusTractIdentifier="1120" MapReferenceIdentifier="---">
+<PROPERTY_IDENTIFICATION_EXTENSION>
+<PROPERTY_IDENTIFICATION_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PROPERTY_IDENTIFICATION_EXTENSION_SECTION_DATA>
+<PARCEL_IDENTIFIER GSEAssessorsParcelIdentifier="15708-020-024"/>
+</PROPERTY_IDENTIFICATION_EXTENSION_SECTION_DATA>
+</PROPERTY_IDENTIFICATION_EXTENSION_SECTION>
+</PROPERTY_IDENTIFICATION_EXTENSION>
+</_IDENTIFICATION>
+<_TAX _TotalSpecialTaxAmount="0" _TotalTaxAmount="3000" _YearIdentifier="2013">
+<PROPERTY_TAX_EXTENSION>
+<PROPERTY_TAX_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PROPERTY_TAX_EXTENSION_SECTION_DATA>
+<PROPERTY_TAX_AMOUNT GSEPropertyTaxTotalTaxAmount="3000"/>
+</PROPERTY_TAX_EXTENSION_SECTION_DATA>
+</PROPERTY_TAX_EXTENSION_SECTION>
+</PROPERTY_TAX_EXTENSION>
+</_TAX>
+<NEIGHBORHOOD PropertyNeighborhoodLocationType="Urban" _BoundaryAndCharacteristicsDescription="GRAVITY STREET IS WEST-SAND STRENORTH-WHEELER AVE IS EAST." _BuiltupRangeType="Over75Percent" _DemandSupplyType="InBalance" _Description="MIXED RESIDENTIAL NEIGHBORHOOD - SINGLES AND 2 TO 4 FAMILY DWELLINGS. ACCESS TOMAIN ROADS-SCHOOLS-CHURCHES-SHOPPING-PUBLIC TRANSPORTATION &amp; EMPLOYMENT SERVICES WITH IN 1-3MILES." _GrowthPaceType="Stable" _MarketConditionsDescription="MARKET CONDITIONS BASED ON INFORMATION TAKEN FROM GSBRMLS.  MORTGAGE MONEY IS AVAILABLE FOR CONVENTIONAL-FHA &amp; VA LOANS. INTEREST RATES ARE FAVORABLE.SELLER CONCESSIONS ARE COMMON IN THE CURRENT MARKET." _Name="DUNMORE" _PropertyValueTrendType="Stable" _TypicalMarketingTimeDurationType="ThreeToSixMonths">
+<_HOUSING _HighPriceAmount="250" _LowPriceAmount="75" _NewestYearsCount="NEW" _OldestYearsCount="100" _PredominantAgeYearsCount="75" _PredominantPriceAmount="125" _Type="SingleFamily"/>
+<_PRESENT_LAND_USE _Percent="90" _Type="SingleFamily"/>
+<_PRESENT_LAND_USE _Percent="10" _Type="TwoToFourFamily"/>
+<_PRESENT_LAND_USE _Percent="" _Type="Apartment"/>
+<_PRESENT_LAND_USE _Percent="" _Type="Commercial"/>
+<_PRESENT_LAND_USE _Percent="" _Type="Other"/>
+<NEIGHBORHOOD_EXTENSION>
+<NEIGHBORHOOD_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<NEIGHBORHOOD_EXTENSION_SECTION_DATA>
+<NEIGHBORHOOD_BOUNDARIES GSENeighborhoodBoundariesDescription="GRAVITY STREET IS WEST-SAND STRENORTH-WHEELER AVE IS EAST."/>
+</NEIGHBORHOOD_EXTENSION_SECTION_DATA>
+</NEIGHBORHOOD_EXTENSION_SECTION>
+</NEIGHBORHOOD_EXTENSION>
+</NEIGHBORHOOD>
+<PROPERTY_EXTENSION>
+<PROPERTY_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PROPERTY_EXTENSION_SECTION_DATA>
+<PROPERTY_TYPE GSE_PUDIndicator="N"/>
+</PROPERTY_EXTENSION_SECTION_DATA>
+</PROPERTY_EXTENSION_SECTION>
+</PROPERTY_EXTENSION>
+<PROJECT _CommonElementsDescription="" _CommonElementsLeaseTermsDescription="" _CommonElementsStatusDescription="" _ContainsMultipleDwellingUnitsDataSourceDescription="" _ConversionDate="" _Name="">
+<_PER_UNIT_FEE _Amount="0"/>
+<DEVELOPMENT_STAGE CompletedUnitsCount="" DataSourceDescription="" UnitsForSaleCount="" UnitsRentedCount="" UnitsSoldCount="" _TotalPhasesCount=""/>
+</PROJECT>
+<LISTING_HISTORY ListedWithinPreviousYearDescription="GSBR MLS" ListedWithinPreviousYearIndicator="N"/>
+<SALES_CONTRACT DataSourceDescription="" SalesConcessionAmount="" SalesConcessionDescription="" _Amount="" _Date="" _ReviewComment="">
+<SALES_CONCESSION_EXTENSION>
+<SALES_CONCESSION_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<SALES_CONCESSION_EXTENSION_SECTION_DATA>
+<SALES_CONCESSION GSEUndefinedConcessionAmountIndicator="N"/>
+</SALES_CONCESSION_EXTENSION_SECTION_DATA>
+</SALES_CONCESSION_EXTENSION_SECTION>
+</SALES_CONCESSION_EXTENSION>
+</SALES_CONTRACT>
+<SITE HighestBestUseDescription="" HighestBestUseIndicator="Y" _AreaDescription="4076 sf" _DimensionsDescription="SEE DEED" _ZoningClassificationDescription="2 FAMILY RESIDENTIAL" _ZoningClassificationIdentifier="R-2" _ZoningComplianceDescription="" _ZoningComplianceType="Legal">
+<SITE_FEATURE _Comment="RECTANGULAR" _Type="Shape"/>
+<SITE_FEATURE _Comment="N;Res;" _Type="View"/>
+<SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="N" _PublicIndicator="Y" _Type="Electricity"/>
+<SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="N" _PublicIndicator="Y" _Type="Gas"/>
+<SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="N" _PublicIndicator="Y" _Type="Water"/>
+<SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="N" _PublicIndicator="Y" _Type="SanitarySewer"/>
+<FLOOD_ZONE NFIPFloodZoneIdentifier="C" NFIPMapIdentifier="420529" NFIPMapPanelDate="09/  /1979" SpecialFloodHazardAreaIndicator="N">
+<FLOOD_ZONE_EXTENSION>
+<FLOOD_ZONE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<FLOOD_ZONE_EXTENSION_SECTION_DATA>
+<FLOOD_ZONE_INFORMATION GSEFEMAFloodMapIdentifier="420529" GSEFEMASpecialFloodHazardAreaIndicator="N" GSENFIPFloodZoneIdentifier="C"/>
+</FLOOD_ZONE_EXTENSION_SECTION_DATA>
+</FLOOD_ZONE_EXTENSION_SECTION>
+</FLOOD_ZONE_EXTENSION>
+</FLOOD_ZONE>
+<SITE_FEATURE _Comment="CONCRETE" _Type="Driveway"/>
+</SITE>
+<_OFF_SITE_IMPROVEMENT _Description="MACADAM" _ExistsIndicator="Y" _OwnershipType="Public" _Type="Street"/>
+<_OFF_SITE_IMPROVEMENT _Description="MACADAM" _ExistsIndicator="N" _OwnershipType="Private" _Type="Street"/>
+<_OFF_SITE_IMPROVEMENT _Description="NO" _ExistsIndicator="N" _OwnershipType="Public" _Type="Alley"/>
+<_OFF_SITE_IMPROVEMENT _Description="NO" _ExistsIndicator="N" _OwnershipType="Private" _Type="Alley"/>
+<PROPERTY_ANALYSIS _Comment="" _ExistsIndicator="Y" _Type="UtilitiesAndOffSiteImprovementsConformToNeighborhood"/>
+<PROPERTY_ANALYSIS _Comment="" _ExistsIndicator="N" _Type="AdverseSiteConditions"/>
+<STRUCTURE AttachmentType="Detached" BuildingStatusType="Existing" GrossLivingAreaSquareFeetCount="1625" LivingUnitCount="1" PropertyStructureBuiltYear="2012" StoriesCount="1" TotalBathroomCount="2.0" TotalBedroomCount="3" TotalRoomCount="6" _AccessoryUnitExistsIndicator="N" _DesignDescription="BI-LEVEL">
+<STRUCTURE_EXTENSION>
+<STRUCTURE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<STRUCTURE_EXTENSION_SECTION_DATA>
+<STRUCTURE_INFORMATION GSEStoriesCount="1" GSEYearBuiltEstimationIndicator="N"/>
+</STRUCTURE_EXTENSION_SECTION_DATA>
+</STRUCTURE_EXTENSION_SECTION>
+</STRUCTURE_EXTENSION>
+<STRUCTURE_ANALYSIS EffectiveAgeYearsCount="0">
+<STRUCTURE_ANALYSIS_EXTENSION>
+<STRUCTURE_ANALYSIS_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<STRUCTURE_ANALYSIS_EXTENSION_SECTION_DATA>
+<EFFECTIVE_AGE GSEEffectiveAgeDescription="0"/>
+</STRUCTURE_ANALYSIS_EXTENSION_SECTION_DATA>
+</STRUCTURE_ANALYSIS_EXTENSION_SECTION>
+</STRUCTURE_ANALYSIS_EXTENSION>
+</STRUCTURE_ANALYSIS>
+<FOUNDATION _ExistsIndicator="N" _Type="Slab"/>
+<FOUNDATION _ExistsIndicator="N" _Type="Crawlspace"/>
+<FOUNDATION _ExistsIndicator="Y" _Type="Basement"/>
+<FOUNDATION _ExistsIndicator="N" _Type="PartialBasement">
+<_CONDITION _ExistsIndicator="N" _Type="Infestation"/>
+<_CONDITION _ExistsIndicator="N" _Type="Dampness"/>
+<_CONDITION _ExistsIndicator="N" _Type="Settlement"/>
+</FOUNDATION>
+<BASEMENT SquareFeetCount="1625" _FinishedPercent="56">
+<BASEMENT_FEATURE _ExistsIndicator="Y" _Type="OutsideEntry"/>
+</BASEMENT>
+<FOUNDATION_FEATURE _ExistsIndicator="N" _Type="SumpPump"/>
+<EXTERIOR_FEATURE _Description="SUPERIOR WALL GD" _ExistsIndicator="Y" _Type="Foundation"/>
+<EXTERIOR_FEATURE _Description="STONE/VINYL GOOD" _ExistsIndicator="Y" _Type="Walls"/>
+<EXTERIOR_FEATURE _Description="ARCH SHINGLES GOOD" _ExistsIndicator="Y" _Type="RoofSurface"/>
+<EXTERIOR_FEATURE _Description="ALUM GOOD" _ExistsIndicator="Y" _Type="GuttersAndDownspouts"/>
+<EXTERIOR_FEATURE _Description="DBL HUNG    GOOD" _ExistsIndicator="Y" _Type="WindowType"/>
+<EXTERIOR_FEATURE _Description="YES-YES GOOD" _ExistsIndicator="Y" _Type="WindowStormSash"/>
+<EXTERIOR_FEATURE _Description="YES                      GOOD" _ExistsIndicator="Y" _Type="WindowScreens"/>
+<INTERIOR_FEATURE _ConditionDescription="HW-W/W-TL GD" _Type="Floors"/>
+<INTERIOR_FEATURE _ConditionDescription="DRY-PNT GOOD" _Type="Walls"/>
+<INTERIOR_FEATURE _ConditionDescription="PINE GOOD" _Type="TrimAndFinish"/>
+<INTERIOR_FEATURE _ConditionDescription="VINYL GOOD" _Type="BathroomFloors"/>
+<INTERIOR_FEATURE _ConditionDescription="PAINT GOOD" _Type="BathroomWainscot"/>
+<ATTIC _ExistsIndicator="Y">
+<ATTIC_FEATURE _ExistsIndicator="N" _Type="DropStair"/>
+<ATTIC_FEATURE _ExistsIndicator="N" _Type="Stairs"/>
+<ATTIC_FEATURE _ExistsIndicator="N" _Type="Floor"/>
+<ATTIC_FEATURE _ExistsIndicator="Y" _Type="Scuttle"/>
+<ATTIC_FEATURE _ExistsIndicator="N" _Type="Finished"/>
+<ATTIC_FEATURE _ExistsIndicator="N" _Type="Heated"/>
+</ATTIC>
+<HEATING _FuelDescription="GAS" _Type="HotWaterBaseboard"/>
+<COOLING _CentralizedIndicator="N" _IndividualIndicator="N" _OtherIndicator="N" _UnitDescription=""/>
+<AMENITY _Count="2" _ExistsIndicator="Y" _Type="Fireplace"/>
+<AMENITY _DetailedDescription="" _ExistsIndicator="Y" _Type="Patio"/>
+<AMENITY _DetailedDescription="" _ExistsIndicator="Y" _Type="Pool"/>
+<AMENITY _Count="0" _ExistsIndicator="N" _Type="WoodStove"/>
+<AMENITY _DetailedDescription="" _ExistsIndicator="Y" _Type="Fence"/>
+<AMENITY _DetailedDescription="" _ExistsIndicator="Y" _Type="Porch"/>
+<AMENITY _ExistsIndicator="N" _Type="Other" _TypeOtherDescription=""/>
+<CAR_STORAGE _AttachmentType="BuiltIn" _ExistsIndicator="N">
+<CAR_STORAGE_LOCATION ParkingSpacesCount="2" _ExistsIndicator="Y" _Type="Driveway"/>
+<CAR_STORAGE_LOCATION ParkingSpacesCount="2" _ExistsIndicator="Y" _Type="Garage"/>
+<CAR_STORAGE_LOCATION ParkingSpacesCount="0" _ExistsIndicator="N" _Type="Carport"/>
+</CAR_STORAGE>
+<KITCHEN_EQUIPMENT _ExistsIndicator="Y" _Type="Refrigerator"/>
+<KITCHEN_EQUIPMENT _ExistsIndicator="Y" _Type="RangeOven"/>
+<KITCHEN_EQUIPMENT _ExistsIndicator="Y" _Type="Dishwasher"/>
+<KITCHEN_EQUIPMENT _ExistsIndicator="N" _Type="Disposal"/>
+<KITCHEN_EQUIPMENT _ExistsIndicator="Y" _Type="Microwave"/>
+<KITCHEN_EQUIPMENT _ExistsIndicator="Y" _Type="WasherDryer"/>
+<KITCHEN_EQUIPMENT _ExistsIndicator="N" _Type="Other" _TypeOtherDescription=""/>
+<OVERALL_CONDITION_RATING_EXTENSION>
+<OVERALL_CONDITION_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<OVERALL_CONDITION_RATING_EXTENSION_SECTION_DATA>
+<OVERALL_CONDITION_RATING GSEUpdateLastFifteenYearIndicator="N"/>
+</OVERALL_CONDITION_RATING_EXTENSION_SECTION_DATA>
+</OVERALL_CONDITION_RATING_EXTENSION_SECTION>
+</OVERALL_CONDITION_RATING_EXTENSION>
+<CONDITION_DETAIL_EXTENSION>
+<CONDITION_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<CONDITION_DETAIL_EXTENSION_SECTION_DATA>
+<CONDITION_DETAIL GSEEstimateYearOfImprovementType="C2;No updates in the prior 15 years;NEWBI LEVEL COMPLETED IN 2012.  THE SUBJECT IS IN GOOD CONDITION. NO VISIBLE REPAIRS ARE RECOMMENDED ATTHIS TIME.  NOTHING WAS OBSERVED THAT MAY AFFECT MARKETABILITY.  LOWER LEVEL IN PROCESS BUTMOSTLY FINISHED.  SEE ATTACHED PHOTOS.MOSTLY FINISHED.  SEE ATTACHED PHOTOS." GSEImprovementAreaType="C2;No updates in the prior 15 years;NEWBI LEVEL COMPLETED IN 2012.  THE SUBJECT IS IN GOOD CONDITION. NO VISIBLE REPAIRS ARE RECOMMENDED ATTHIS TIME.  NOTHING WAS OBSERVED THAT MAY AFFECT MARKETABILITY.  LOWER LEVEL IN PROCESS BUTMOSTLY FINISHED.  SEE ATTACHED PHOTOS.MOSTLY FINISHED.  SEE ATTACHED PHOTOS." GSEImprovementDescriptionType="C2;No updates in the prior 15 years;NEWBI LEVEL COMPLETED IN 2012.  THE SUBJECT IS IN GOOD CONDITION. NO VISIBLE REPAIRS ARE RECOMMENDED ATTHIS TIME.  NOTHING WAS OBSERVED THAT MAY AFFECT MARKETABILITY.  LOWER LEVEL IN PROCESS BUTMOSTLY FINISHED.  SEE ATTACHED PHOTOS.MOSTLY FINISHED.  SEE ATTACHED PHOTOS." _SequenceIdentifier="1"/>
+</CONDITION_DETAIL_EXTENSION_SECTION_DATA>
+</CONDITION_DETAIL_EXTENSION_SECTION>
+</CONDITION_DETAIL_EXTENSION>
+</STRUCTURE>
+<PROPERTY_ANALYSIS _Comment="GOOD FLOOR PLAN-SPACIOUS ROOMS-HW FLOORS-OAK STAIRCASE-OAKKITCHEN W/BRKFST BAR-MASTER BED &amp; BATH-PART FIN BSMT-2 CAR GAR-CONCR DRIVE/WALKS-PR-FN-PAT-PL" _Type="AdditionalFeatures"/>
+<PROPERTY_ANALYSIS _Comment="C2;No updates in the prior 15 years;NEWBI LEVEL COMPLETED IN 2012.  THE SUBJECT IS IN GOOD CONDITION. NO VISIBLE REPAIRS ARE RECOMMENDED ATTHIS TIME.  NOTHING WAS OBSERVED THAT MAY AFFECT MARKETABILITY.  LOWER LEVEL IN PROCESS BUTMOSTLY FINISHED.  SEE ATTACHED PHOTOS.MOSTLY FINISHED.  SEE ATTACHED PHOTOS." _Type="PropertyCondition"/>
+<PROPERTY_ANALYSIS _Comment="" _ExistsIndicator="N" _Type="PhysicalDeficiency"/>
+<PROPERTY_ANALYSIS _Comment="" _ExistsIndicator="Y" _Type="ConformsToNeighborhood"/>
+<PROJECT _ClassificationType="PUD" _CommonElementsDescription="" _CommonElementsLeaseTermsDescription="" _CommonElementsStatusDescription="" _ContainsMultipleDwellingUnitsDataSourceDescription="" _ConversionDate=""/>
+</PROPERTY>
+<PARTIES>
+<BORROWER _UnparsedName="PATRICK M &amp; CAROL PADULA">
+<BORROWER_EXTENSION>
+<BORROWER_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<BORROWER_EXTENSION_SECTION_DATA>
+<BORROWER_NAME GSEBorrowerName="PATRICK M &amp; CAROL PADULA"/>
+</BORROWER_EXTENSION_SECTION_DATA>
+</BORROWER_EXTENSION_SECTION>
+</BORROWER_EXTENSION>
+</BORROWER>
+<LENDER AppraisalFormsUnparsedAddress="103 E DRINKER STREETDUNMORE, PA  15212" _StreetAddress="103 E DRINKER STREETDUNMORE" _StreetAddress2=" PA  15212" _UnparsedName="FIRST NATIONAL COMMUNITY BANK">
+<CONTACT_DETAIL _Name="">
+<CONTACT_POINT _Type="Email" _Value=""/>
+</CONTACT_DETAIL>
+</LENDER>
+<APPRAISER _City="Scranton" _CompanyName="Stephen R. Margitich Agency" _Name="Suzanne M. Brudnicki" _PostalCode="18505" _State="PA" _StreetAddress="615 South Irving Avenue">
+<CONTACT_DETAIL>
+<CONTACT_POINT _Type="Phone" _Value="570-342-1941"/>
+<CONTACT_POINT _Type="Email" _Value="margitichre@epix.net"/>
+</CONTACT_DETAIL>
+<INSPECTION AppraisalInspectionPropertyType="Subject" InspectionDate="2013-02-15"/>
+<APPRAISER_LICENSE _ExpirationDate="2013-06-30" _Identifier="RL000052-L" _State="PA" _Type="Certificate"/>
+</APPRAISER>
+<MANAGEMENT_COMPANY_EXTENSION>
+<MANAGEMENT_COMPANY_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<MANAGEMENT_COMPANY_EXTENSION_SECTION_DATA>
+<MANAGEMENT_COMPANY GSEManagementCompanyName="No AMC"/>
+</MANAGEMENT_COMPANY_EXTENSION_SECTION_DATA>
+</MANAGEMENT_COMPANY_EXTENSION_SECTION>
+</MANAGEMENT_COMPANY_EXTENSION>
+<SUPERVISOR _City="" _CompanyName="" _Name="" _PostalCode="" _State="" _StreetAddress="">
+<CONTACT_DETAIL>
+<CONTACT_POINT _Type="Phone" _Value=""/>
+<CONTACT_POINT _Type="Email" _Value=""/>
+</CONTACT_DETAIL>
+<APPRAISER_LICENSE _ExpirationDate="" _State=""/>
+<INSPECTION AppraisalInspectionPropertyType="Comparable"/>
+</SUPERVISOR>
+<REVIEW_APPRAISER/>
+<REAL_ESTATE_AGENT>
+<CONTACT_DETAIL/>
+</REAL_ESTATE_AGENT>
+</PARTIES>
+<VALUATION_METHODS _AdditionalDescription="I HAVE PERFORMED NO SERVICES AS AN APPRAISER OR IN ANY OTHER CAPACITY REGARDING THE PROPERTY THATIS THE SUBJECT OF THIS REPORT WITHIN THE 3 YR.PERIOD IMMEDIATELY PRECEDING THE ACCEPTANCE OF THIS PREDOMINANT VALUE-THE SUBJECT IS A NEW DWELLING, LOCATED IN A NEIGHBORHOOD OF MOSTLY OLDERHOMES.  THIS IS TYPICAL FOR THE AREA AND DOES NOT AFFECT FUTURE MARKETABILITY.">
+<SALES_COMPARISON ValueIndicatedBySalesComparisonApproachAmount="235000" _Comment="THE COMPS CHOSEN ARE THE BEST AVAILABLE AT THIS TIME, HAVE SIMILARITIES TOTHE SUBJECT AND WERE CONSIDERED TO BE GOOD INDICATORS OF VALUE.  PLUS AND MINUS ADJUSTMENTS WEREMADE AS NEEDED.  DUE TO LACK OF MORE RECENT SALES IN THE SUBJECT NEIGHBORHOOD, IT WAS NECESSARY TOEXPAND THE MARKET TO OBTAIN COMPS.  ALL COMPS CHOSEN ARE LOCATED IN SIMILAR TYPE NEIGHBORHOODS,EXPAND THE MARKET TO OBTAIN COMPS.  ALL COMPS CHOSEN ARE LOCATED IN SIMILAR TYPE NEIGHBORHOODS,WHERE THERE IS A MIXTURE OF OLDER AND NEWER HOMES.WHERE THERE IS A MIXTURE OF OLDER AND NEWER HOMES." _CurrentSalesAgreementAnalysisComment="THE SUBJECT TRANSFERRED ON 5/23/12 LAND ONLYPRICE $1.00-FAMILY TRANSFER FROM PARENTS TO CHILD.   NO PRIOR SALES OR TRANSFERS OF THE COMPARABLESALES IN THE PAST YEAR PRIOR TO THE CURRENT INDICATED SALE DATES IN THE ABOVE GRID.">
+<COMPARABLE_SALE PropertySequenceIdentifier="0" SalesPricePerGrossLivingAreaAmount="">
+<COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_DETAIL GSEAgeEstimationIndicator="N" GSEBasementExitType="WalkOut" GSEBelowGradeBathroomRoomCount="1.0" GSEBelowGradeBedroomRoomCount="0" GSEBelowGradeFinishSquareFeetNumber="918" GSEBelowGradeOtherRoomCount="1" GSEBelowGradeRecreationRoomCount="1" GSEBelowGradeTotalSquareFeetNumber="1625" GSEDaysOnMarketDescription="GSBR MLS" GSEOverallConditionType="C2" GSEQualityOfConstructionRatingType="Q3"/>
+</COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_DETAIL_EXTENSION_SECTION>
+</COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_OVERALL_RATING GSEViewOverallRatingType="Neutral"/>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_DETAIL GSEViewType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION>
+</COMPARISON_VIEW_DETAIL_EXTENSION>
+<LOCATION PropertyStreetAddress="142 ERIE STREET" PropertyStreetAddress2="DUNMORE, PA 18510"/>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION0_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_OVERALL_RATING GSEOverallLocationRatingType="Neutral"/>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION0_SECTION>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_DETAIL GSELocationType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION>
+</COMPARISON_LOCATION_DETAIL_EXTENSION>
+<ROOM_ADJUSTMENT TotalBathroomCount="2.0" TotalBedroomCount="3" TotalRoomCount="6"/>
+<SALE_PRICE_ADJUSTMENT _Description="" _Type="SalesConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Description="" _Type="FinancingConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Description="" _Type="DateOfSale"/>
+<SALE_PRICE_ADJUSTMENT _Description="N;Res;" _Type="Location"/>
+<SALE_PRICE_ADJUSTMENT _Description="FEE SIMPLE" _Type="PropertyRights"/>
+<SALE_PRICE_ADJUSTMENT _Description="4076 sf" _Type="SiteArea"/>
+<SALE_PRICE_ADJUSTMENT _Description="N;Res;" _Type="View"/>
+<SALE_PRICE_ADJUSTMENT _Description="BI-LEVEL" _Type="DesignStyle"/>
+<SALE_PRICE_ADJUSTMENT _Description="Q3" _Type="Quality"/>
+<SALE_PRICE_ADJUSTMENT _Description="1" _Type="Age"/>
+<SALE_PRICE_ADJUSTMENT _Description="C2" _Type="Condition"/>
+<SALE_PRICE_ADJUSTMENT _Description="1,625" _Type="GrossLivingArea"/>
+<SALE_PRICE_ADJUSTMENT _Description="1625sf918sfwo" _Type="BasementArea"/>
+<SALE_PRICE_ADJUSTMENT _Description="1rr0br1.0ba1o" _Type="BasementFinish"/>
+<SALE_PRICE_ADJUSTMENT _Description="GOOD" _Type="FunctionalUtility"/>
+<SALE_PRICE_ADJUSTMENT _Description="GAS-0" _Type="HeatingCooling"/>
+<SALE_PRICE_ADJUSTMENT _Description="INS-2FP" _Type="EnergyEfficient"/>
+<SALE_PRICE_ADJUSTMENT _Description="2 CAR" _Type="CarStorage"/>
+<SALE_PRICE_ADJUSTMENT _Description="PR-PAT-PL-FN" _Type="PorchDeck"/>
+<SALE_PRICE_ADJUSTMENT _Description="" _Type="Other" _TypeOtherDescription=""/>
+<PRIOR_SALES DataSourceDescription="OWNER-DEED" DataSourceEffectiveDate="2013-02-15" PropertySalesAmount="1" PropertySalesDate="05/23/2012">
+<PRIOR_SALES_EXTENSION>
+<PRIOR_SALES_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PRIOR_SALES_EXTENSION_SECTION_DATA>
+<PRIOR_SALE GSEPriorSaleComment="THE SUBJECT TRANSFERRED ON 5/23/12 LAND ONLYPRICE $1.00-FAMILY TRANSFER FROM PARENTS TO CHILD.   NO PRIOR SALES OR TRANSFERS OF THE COMPARABLESALES IN THE PAST YEAR PRIOR TO THE CURRENT INDICATED SALE DATES IN THE ABOVE GRID." GSEPriorSaleDate="2012-05-23"/>
+</PRIOR_SALES_EXTENSION_SECTION_DATA>
+</PRIOR_SALES_EXTENSION_SECTION>
+</PRIOR_SALES_EXTENSION>
+</PRIOR_SALES>
+</COMPARABLE_SALE>
+<RESEARCH ComparableListingsPriceRangeHighAmount="275000" ComparableListingsPriceRangeLowAmount="225000" ComparableListingsResearchedCount="4" ComparableSalesPriceRangeHighAmount="275000" ComparableSalesPriceRangeLowAmount="225000" ComparableSalesResearchedCount="0" SalesHistoryNotResearchedComment="" SalesHistoryResearchedIndicator="Y">
+<SUBJECT DataSourceDescription="OWNER-DEED" _HasPriorSalesIndicator="Y"/>
+<COMPARABLE DataSourceDescription="MLS-PUBLIC RECORDS" _HasPriorSalesIndicator="N"/>
+</RESEARCH>
+<COMPARABLE_SALE AdjustedSalesPriceAmount="234875" DataSourceVerificationDescription="COURTHOUSE RECORDS" PropertySalesAmount="240000" PropertySequenceIdentifier="1" SalePriceTotalAdjustmentAmount="-5125" SalePriceTotalAdjustmentNetPercent="2.14" SalesPricePerGrossLivingAreaAmount="114.29" SalesPriceTotalAdjustmentGrossPercent="14.64" SalesPriceTotalAdjustmentPositiveIndicator="N">
+<LOCATION PropertyCity="DICKSON CITY" PropertyPostalCode="18519" PropertyState="PA" PropertyStreetAddress="1221 THROOP STREET" PropertyStreetAddress2="DICKSON CITY, PA 18519" ProximityToSubjectDescription="4.49 miles N"/>
+<COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_DETAIL GSEAgeEstimationIndicator="N" GSEBasementExitType="WalkOut" GSEBelowGradeBathroomRoomCount="1.0" GSEBelowGradeBedroomRoomCount="0" GSEBelowGradeFinishSquareFeetNumber="1050" GSEBelowGradeOtherRoomCount="1" GSEBelowGradeRecreationRoomCount="1" GSEBelowGradeTotalSquareFeetNumber="2100" GSEConcessionAmount="Conv;0" GSEContractDateUnknownIndicator="N" GSEDataSourceDescription="GSBR 12-1306" GSEDaysOnMarketDescription="46" GSEFinancingType="Conventional" GSEFinancingTypeOtherDescription="" GSEListingStatusType="SettledSale" GSEOverallConditionType="C3" GSEQualityOfConstructionRatingType="Q3" GSESaleType="ArmsLengthSale"/>
+</COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_DETAIL_EXTENSION_SECTION>
+</COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DATE_EXTENSION>
+<COMPARISON_DATE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DATE_EXTENSION_SECTION_DATA>
+<OFFERING_DISPOSITION GSEShortDateDescription="06/12"/>
+</COMPARISON_DATE_EXTENSION_SECTION_DATA>
+</COMPARISON_DATE_EXTENSION_SECTION>
+</COMPARISON_DATE_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_OVERALL_RATING GSEOverallLocationRatingType="Neutral"/>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_DETAIL GSELocationType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION>
+</COMPARISON_LOCATION_DETAIL_EXTENSION>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="ArmLth" _Type="SalesConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="Conv;0" _Type="FinancingConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="s06/12;c05/12" _Type="DateOfSale"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="N;Res;" _Type="Location"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="FEE SIMPLE" _Type="PropertyRights"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-10,000" _Description="16500 sf" _Type="SiteArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="N;Res;" _Type="View"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="BI-LEVEL" _Type="DesignStyle"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="Q3" _Type="Quality"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+3,000" _Description="23" _Type="Age"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="C3" _Type="Condition"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Type="Other" _TypeOtherDescription="RoomAboveGradeLine1"/>
+<SALE_PRICE_ADJUSTMENT _Amount="6" _Type="Other" _TypeOtherDescription="RoomAboveGradeLine2"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-7,125" _Description="2,100" _Type="GrossLivingArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="0" _Description="2100sf1050sfwo" _Type="BasementArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="1rr0br1.0ba1o" _Type="BasementFinish"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="GOOD" _Type="FunctionalUtility"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-3,000" _Description="GAS-CA" _Type="HeatingCooling"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+2,000" _Description="INS-1FP" _Type="EnergyEfficient"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="2 CAR" _Type="CarStorage"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="PR-DK" _Type="PorchDeck"/>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_OVERALL_RATING GSEViewOverallRatingType="Neutral"/>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_DETAIL GSEViewType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION>
+</COMPARISON_VIEW_DETAIL_EXTENSION>
+<ROOM_ADJUSTMENT TotalBathroomCount="2.0" TotalBedroomCount="3" TotalRoomCount="6"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="1"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="2"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="3"/>
+<PRIOR_SALES DataSourceDescription="MLS" DataSourceEffectiveDate="2013-02-15" PropertySalesAmount="">
+<PRIOR_SALES_EXTENSION>
+<PRIOR_SALES_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PRIOR_SALES_EXTENSION_SECTION_DATA>
+<PRIOR_SALE GSEPriorSaleDate=""/>
+</PRIOR_SALES_EXTENSION_SECTION_DATA>
+</PRIOR_SALES_EXTENSION_SECTION>
+</PRIOR_SALES_EXTENSION>
+</PRIOR_SALES>
+</COMPARABLE_SALE>
+<COMPARABLE_SALE AdjustedSalesPriceAmount="200350" DataSourceVerificationDescription="COURTHOUSE RECORDS" PropertySalesAmount="190000" PropertySequenceIdentifier="2" SalePriceTotalAdjustmentAmount="10350" SalePriceTotalAdjustmentNetPercent="5.45" SalesPricePerGrossLivingAreaAmount="142.32" SalesPriceTotalAdjustmentGrossPercent="15.97" SalesPriceTotalAdjustmentPositiveIndicator="Y">
+<LOCATION PropertyCity="THROOP" PropertyPostalCode="18512" PropertyState="PA" PropertyStreetAddress="720 PEARL STREET" PropertyStreetAddress2="THROOP, PA 18512" ProximityToSubjectDescription="3.02 miles N"/>
+<COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_DETAIL GSEAgeEstimationIndicator="N" GSEBasementExitType="WalkOut" GSEBelowGradeBathroomRoomCount="1.0" GSEBelowGradeBedroomRoomCount="1" GSEBelowGradeFinishSquareFeetNumber="790" GSEBelowGradeOtherRoomCount="1" GSEBelowGradeRecreationRoomCount="1" GSEBelowGradeTotalSquareFeetNumber="1335" GSEConcessionAmount="FHA;0" GSEContractDateUnknownIndicator="N" GSEDataSourceDescription="GSBR 12-2869" GSEDaysOnMarketDescription="21" GSEFinancingType="FHA" GSEFinancingTypeOtherDescription="" GSEListingStatusType="SettledSale" GSEOverallConditionType="C3" GSEQualityOfConstructionRatingType="Q3" GSESaleType="ArmsLengthSale"/>
+</COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_DETAIL_EXTENSION_SECTION>
+</COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DATE_EXTENSION>
+<COMPARISON_DATE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DATE_EXTENSION_SECTION_DATA>
+<OFFERING_DISPOSITION GSEShortDateDescription="08/12"/>
+</COMPARISON_DATE_EXTENSION_SECTION_DATA>
+</COMPARISON_DATE_EXTENSION_SECTION>
+</COMPARISON_DATE_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_OVERALL_RATING GSEOverallLocationRatingType="Neutral"/>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_DETAIL GSELocationType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION>
+</COMPARISON_LOCATION_DETAIL_EXTENSION>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="ArmLth" _Type="SalesConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="FHA;0" _Type="FinancingConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="s08/12;c07/12" _Type="DateOfSale"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="N;Res;" _Type="Location"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="FEE SIMPLE" _Type="PropertyRights"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-5,000" _Description="10454 sf" _Type="SiteArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="N;Res;" _Type="View"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="BI-LEVEL" _Type="DesignStyle"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="Q3" _Type="Quality"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+3,000" _Description="26" _Type="Age"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="C3" _Type="Condition"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Type="Other" _TypeOtherDescription="RoomAboveGradeLine1"/>
+<SALE_PRICE_ADJUSTMENT _Amount="6" _Type="Other" _TypeOtherDescription="RoomAboveGradeLine2"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+4,350" _Description="1,335" _Type="GrossLivingArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="0" _Description="1335sf790sfwo" _Type="BasementArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="0" _Description="1rr1br1.0ba1o" _Type="BasementFinish"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="GOOD" _Type="FunctionalUtility"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-5,000" _Description="GAS-CA" _Type="HeatingCooling"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+2,000" _Description="INS-1FP" _Type="EnergyEfficient"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+1,000" _Description="1 CAR" _Type="CarStorage"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="PR-DK" _Type="PorchDeck"/>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_OVERALL_RATING GSEViewOverallRatingType="Neutral"/>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_DETAIL GSEViewType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION>
+</COMPARISON_VIEW_DETAIL_EXTENSION>
+<ROOM_ADJUSTMENT TotalBathroomCount="2.0" TotalBedroomCount="3" TotalRoomCount="6"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="1"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="2"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="3"/>
+<PRIOR_SALES DataSourceDescription="MLS" DataSourceEffectiveDate="2013-02-15" PropertySalesAmount="">
+<PRIOR_SALES_EXTENSION>
+<PRIOR_SALES_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PRIOR_SALES_EXTENSION_SECTION_DATA>
+<PRIOR_SALE GSEPriorSaleDate=""/>
+</PRIOR_SALES_EXTENSION_SECTION_DATA>
+</PRIOR_SALES_EXTENSION_SECTION>
+</PRIOR_SALES_EXTENSION>
+</PRIOR_SALES>
+</COMPARABLE_SALE>
+<COMPARABLE_SALE AdjustedSalesPriceAmount="238425" DataSourceVerificationDescription="COURTHOUSE RECORDS" PropertySalesAmount="240000" PropertySequenceIdentifier="3" SalePriceTotalAdjustmentAmount="-1575" SalePriceTotalAdjustmentNetPercent="0.66" SalesPricePerGrossLivingAreaAmount="131.15" SalesPriceTotalAdjustmentGrossPercent="15.24" SalesPriceTotalAdjustmentPositiveIndicator="N">
+<LOCATION PropertyCity="SCRANTON" PropertyPostalCode="18505" PropertyState="PA" PropertyStreetAddress="138 CONROY AVENUE" PropertyStreetAddress2="SCRANTON, PA 18505" ProximityToSubjectDescription="0.91 miles SW"/>
+<COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_DETAIL GSEAgeEstimationIndicator="N" GSEBasementExitType="WalkUp" GSEBelowGradeBathroomRoomCount="0.0" GSEBelowGradeBedroomRoomCount="0" GSEBelowGradeFinishSquareFeetNumber="1370" GSEBelowGradeOtherRoomCount="1" GSEBelowGradeRecreationRoomCount="1" GSEBelowGradeTotalSquareFeetNumber="1826" GSEConcessionAmount="Conv;0" GSEContractDateUnknownIndicator="N" GSEDataSourceDescription="GSBR 12-2844" GSEDaysOnMarketDescription="1" GSEFinancingType="Conventional" GSEFinancingTypeOtherDescription="" GSEListingStatusType="SettledSale" GSEOverallConditionType="C3" GSEQualityOfConstructionRatingType="Q3" GSESaleType="ArmsLengthSale"/>
+</COMPARISON_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_DETAIL_EXTENSION_SECTION>
+</COMPARISON_DETAIL_EXTENSION>
+<COMPARISON_DATE_EXTENSION>
+<COMPARISON_DATE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_DATE_EXTENSION_SECTION_DATA>
+<OFFERING_DISPOSITION GSEShortDateDescription="06/12"/>
+</COMPARISON_DATE_EXTENSION_SECTION_DATA>
+</COMPARISON_DATE_EXTENSION_SECTION>
+</COMPARISON_DATE_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_OVERALL_RATING GSEOverallLocationRatingType="Neutral"/>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_LOCATION_OVERALL_RATING_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION>
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_LOCATION_DETAIL GSELocationType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_LOCATION_DETAIL_EXTENSION_SECTION>
+</COMPARISON_LOCATION_DETAIL_EXTENSION>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="ArmLth" _Type="SalesConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="Conv;0" _Type="FinancingConcessions"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="s06/12;c04/12" _Type="DateOfSale"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="N;Res;" _Type="Location"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="FEE SIMPLE" _Type="PropertyRights"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-8,000" _Description="13500 sf" _Type="SiteArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="N;Res;" _Type="View"/>
+<SALE_PRICE_ADJUSTMENT _Amount="0" _Description="RANCH" _Type="DesignStyle"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="Q3" _Type="Quality"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="51" _Type="Age"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="C3" _Type="Condition"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Type="Other" _TypeOtherDescription="RoomAboveGradeLine1"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+500" _Type="Other" _TypeOtherDescription="RoomAboveGradeLine2"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-3,075" _Description="" _Type="GrossLivingArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-5,000" _Description="1826sf1370sfwu" _Type="BasementArea"/>
+<SALE_PRICE_ADJUSTMENT _Amount="0" _Description="1rr0br0.0ba1o" _Type="BasementFinish"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="GOOD" _Type="FunctionalUtility"/>
+<SALE_PRICE_ADJUSTMENT _Amount="-3,000" _Description="GAS-CA" _Type="HeatingCooling"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+2,000" _Description="INS-1FP" _Type="EnergyEfficient"/>
+<SALE_PRICE_ADJUSTMENT _Amount="" _Description="2 CAR" _Type="CarStorage"/>
+<SALE_PRICE_ADJUSTMENT _Amount="+5,000" _Description="PR-DK-PAT" _Type="PorchDeck"/>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_OVERALL_RATING GSEViewOverallRatingType="Neutral"/>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION_SECTION>
+</COMPARISON_VIEW_OVERALL_RATING_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION>
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+<COMPARISON_VIEW_DETAIL GSEViewType="ResidentialView" _SequenceIdentifier="1"/>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION_DATA>
+</COMPARISON_VIEW_DETAIL_EXTENSION_SECTION>
+</COMPARISON_VIEW_DETAIL_EXTENSION>
+<ROOM_ADJUSTMENT TotalBathroomCount="1.1" TotalBedroomCount="3" TotalRoomCount="6"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="1"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="2"/>
+<OTHER_FEATURE_ADJUSTMENT PropertyFeatureAdjustmentAmount="" PropertyFeatureDescription="" PropertyFeatureSequenceIdentifier="3"/>
+<PRIOR_SALES DataSourceDescription="MLS" DataSourceEffectiveDate="201302-02-15" PropertySalesAmount="">
+<PRIOR_SALES_EXTENSION>
+<PRIOR_SALES_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<PRIOR_SALES_EXTENSION_SECTION_DATA>
+<PRIOR_SALE GSEPriorSaleDate=""/>
+</PRIOR_SALES_EXTENSION_SECTION_DATA>
+</PRIOR_SALES_EXTENSION_SECTION>
+</PRIOR_SALES_EXTENSION>
+</PRIOR_SALES>
+</COMPARABLE_SALE>
+</SALES_COMPARISON>
+<COST_ANALYSIS CostServiceQualityRatingDescription="GOOD" DataSourceDescription="MARSHALL &amp; SWIFT" DataSourceEffectiveDate="-06-" EstimatedRemainingEconomicLifeYearsCount="" NewImprovementDepreciatedCostAmount="228,675" NewImprovementTotalCostAmount="228,675" SiteEstimatedValueAmount="15,000" SiteEstimatedValueComment="SITE VALUE BASED ON INFORMATION TAKEN FROM MLS &amp; PUBLIC RECORDS." SiteOtherImprovementsAsIsAmount="5,000" ValueIndicatedByCostApproachAmount="248,675" _Comment="GLA - PRINTSDEPRECIATION - NONE CONSIDERED AT THIS" _Type="Replacement">
+<COST_ANALYSIS_EXTENSION>
+<COST_ANALYSIS_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+<COST_ANALYSIS_EXTENSION_SECTION_DATA>
+<COST_APPROACH_DATA_SOURCE GSECostDataSourceEffectiveDateDescription="06/11"/>
+</COST_ANALYSIS_EXTENSION_SECTION_DATA>
+</COST_ANALYSIS_EXTENSION_SECTION>
+</COST_ANALYSIS_EXTENSION>
+<NEW_IMPROVEMENT PricePerSquareFootAmount="111.00" SquareFeetCount="1625" _CostAmount="180,375" _Type="Dwelling"/>
+<NEW_IMPROVEMENT PricePerSquareFootAmount="25.00" SquareFeetCount="612" _CostAmount="15,300" _Type="Other" _TypeOtherDescription="FIN B"/>
+<NEW_IMPROVEMENT _CostAmount="25,000" _CostDescription="2 FP-PR-PAT-POOL" _SequenceIdentifier="1" _Type="Additional"/>
+<NEW_IMPROVEMENT PricePerSquareFootAmount="20.00" SquareFeetCount="400" _CostAmount="8,000" _Type="Garage"/>
+<DEPRECIATION _ExteriorAmount="0" _FunctionalAmount="0" _PhysicalAmount="0" _TotalAmount="(0)"/>
+</COST_ANALYSIS>
+<INCOME_ANALYSIS EstimatedMarketMonthlyRentAmount="" GrossRentMultiplierFactor="" ValueIndicatedByIncomeApproachAmount="" _Comment=""/>
+</VALUATION_METHODS>
+<VALUATION AppraisalEffectiveDate="2013-02-15" PropertyAppraisedValueAmount="235000">
+<_RECONCILIATION _ConditionsComment="" _SummaryComment="ALL APPROACHES TO VALUE WERE CONSIDERED.  MARKET APPROACH TENDS TO BE THE BEST INDICATOR OFVALUE.">
+<_CONDITION_OF_APPRAISAL _Type="AsIs"/>
+</_RECONCILIATION>
+</VALUATION>
+</VALUATION_RESPONSE>

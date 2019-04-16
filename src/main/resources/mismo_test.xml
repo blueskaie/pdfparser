@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VALUATION_RESPONSE>
+    <PROPERTY _City="DUNMORE " _County="LACKAWANNA " _PostalCode="18510 " _State="PA " _StreetAddress="142 ERIE STREET ">
+        <_OWNER>
+            <PROPERTY_OWNER_EXTENSION>
+                <PROPERTY_OWNER_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <PROPERTY_OWNER_EXTENSION_SECTION_DATA>
+                        <PROPERTY_OWNER GSEPropertyOwnerName="PATRICK M &amp; CAROL PADULA "/>
+                    </PROPERTY_OWNER_EXTENSION_SECTION_DATA>
+                </PROPERTY_OWNER_EXTENSION_SECTION>
+            </PROPERTY_OWNER_EXTENSION>
+        </_OWNER>
+        <_LEGAL_DESCRIPTION _TextDescription="SEE INSTRUMENT # 201211668 " _Type="Other" _TypeOtherDescription="LongLegal"/>
+        <_IDENTIFICATION CensusTractIdentifier="1120 " MapReferenceIdentifier="--- ">
+            <PROPERTY_IDENTIFICATION_EXTENSION>
+                <PROPERTY_IDENTIFICATION_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <PROPERTY_IDENTIFICATION_EXTENSION_SECTION_DATA>
+                        <PARCEL_IDENTIFIER GSEAssessorsParcelIdentifier="15708-020-024 "/>
+                    </PROPERTY_IDENTIFICATION_EXTENSION_SECTION_DATA>
+                </PROPERTY_IDENTIFICATION_EXTENSION_SECTION>
+            </PROPERTY_IDENTIFICATION_EXTENSION>
+        </_IDENTIFICATION>
+        <_TAX _TotalSpecialTaxAmount="0 " _YearIdentifier="2013 ">
+            <PROPERTY_TAX_EXTENSION>
+                <PROPERTY_TAX_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <PROPERTY_TAX_EXTENSION_SECTION_DATA>
+                        <PROPERTY_TAX_AMOUNT GSEPropertyTaxTotalTaxAmount="EST 3000 "/>
+                    </PROPERTY_TAX_EXTENSION_SECTION_DATA>
+                </PROPERTY_TAX_EXTENSION_SECTION>
+            </PROPERTY_TAX_EXTENSION>
+        </_TAX>
+        <NEIGHBORHOOD _Name="DUNMORE "/>
+    </PROPERTY>
+    <PROPERTY _CurrentOccupancyType="OwnerOccupied">Owner</PROPERTY>
+    <PROPERTY _CurrentOccupancyType="TenantOccupied"/>
+    <PROPERTY _CurrentOccupancyType="Vacant">
+        <PROJECT>
+            <_PER_UNIT_FEE _Amount="0 "/>
+            <_PER_UNIT_FEE _PeriodType="Annually"/>
+            <_PER_UNIT_FEE _PeriodType="Monthly"/>
+        </PROJECT>
+    </PROPERTY>
+    <PROPERTY _RightsType="FeeSimple">Fee Simple</PROPERTY>
+    <PROPERTY _RightsType="Leasehold"/>
+    <PROPERTY _City="" _PostalCode="" _RightsType="Other" _RightsTypeOtherDescription="" _State="" _StreetAddress="" _VfdCity="" _VfdCounty="" _VfdLatitudeNumber="" _VfdLongitudeNumber="" _VfdPostalCode="" _VfdState="" _VfdStreetAddress="" _VfdStreetAddress2="">
+        <LISTING_HISTORY ListedWithinPreviousYearIndicator="Y"/>
+        <LISTING_HISTORY ListedWithinPreviousYearDescription="GSBR MLS " ListedWithinPreviousYearIndicator="N">No</LISTING_HISTORY>
+        <SALES_CONTRACT _ReviewedIndicator="Y"/>
+        <SALES_CONTRACT _Amount="" _Date="" _ReviewComment="" _ReviewedIndicator="N">
+            <SALES_CONTRACT_EXTENSION>
+                <SALES_CONTRACT_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <SALES_CONTRACT_EXTENSION_SECTION_DATA>
+                        <SALES_TRANSACTION GSESaleType=""/>
+                    </SALES_CONTRACT_EXTENSION_SECTION_DATA>
+                </SALES_CONTRACT_EXTENSION_SECTION>
+            </SALES_CONTRACT_EXTENSION>
+        </SALES_CONTRACT>
+        <SALES_CONTRACT SellerIsOwnerIndicator="Y"/>
+        <SALES_CONTRACT DataSourceDescription="" SellerIsOwnerIndicator="N">No</SALES_CONTRACT>
+        <SALES_CONTRACT SalesConcessionIndicator="Y"/>
+        <SALES_CONTRACT SalesConcessionAmount="" SalesConcessionDescription="" SalesConcessionIndicator="N">No<SALES_CONCESSION_EXTENSION>
+                <SALES_CONCESSION_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <SALES_CONCESSION_EXTENSION_SECTION_DATA>
+                        <SALES_CONCESSION GSEUndefinedConcessionAmountIndicator=""/>
+                    </SALES_CONCESSION_EXTENSION_SECTION_DATA>
+                </SALES_CONCESSION_EXTENSION_SECTION>
+            </SALES_CONCESSION_EXTENSION>
+        </SALES_CONTRACT>
+        <NEIGHBORHOOD PropertyNeighborhoodLocationType="Urban">Urban</NEIGHBORHOOD>
+        <NEIGHBORHOOD PropertyNeighborhoodLocationType="Suburban"/>
+        <NEIGHBORHOOD PropertyNeighborhoodLocationType="Rural"/>
+        <NEIGHBORHOOD _BuiltupRangeType="Over75Percent">Over 75%</NEIGHBORHOOD>
+        <NEIGHBORHOOD _BuiltupRangeType="25To75Percent"/>
+        <NEIGHBORHOOD _BuiltupRangeType="Under25Percent"/>
+        <NEIGHBORHOOD _GrowthPaceType="Rapid"/>
+        <NEIGHBORHOOD _GrowthPaceType="Stable">Stable</NEIGHBORHOOD>
+        <NEIGHBORHOOD _GrowthPaceType="Slow"/>
+        <NEIGHBORHOOD _PropertyValueTrendType="Increasing"/>
+        <NEIGHBORHOOD _PropertyValueTrendType="Stable">Stable</NEIGHBORHOOD>
+        <NEIGHBORHOOD _PropertyValueTrendType="Declining"/>
+        <NEIGHBORHOOD _DemandSupplyType="Shortage"/>
+        <NEIGHBORHOOD _DemandSupplyType="InBalance">In Balance</NEIGHBORHOOD>
+        <NEIGHBORHOOD _DemandSupplyType="OverSupply"/>
+        <NEIGHBORHOOD _TypicalMarketingTimeDurationType="UnderThreeMonths"/>
+        <NEIGHBORHOOD _TypicalMarketingTimeDurationType="ThreeToSixMonths"/>
+        <NEIGHBORHOOD _Description="MIXED RESIDENTIAL NEIGHBORHOOD - SINGLES AND 2 TO 4 FAMILY DWELLINGS. ACCESS TO MAIN ROADS-SCHOOLS-CHURCHES-SHOPPING-PUBLIC TRANSPORTATION &amp; EMPLOYMENT SERVICES WITH IN 1-3 MILES. " _MarketConditionsDescription="MARKET CONDITIONS BASED ON INFORMATION TAKEN FROM GSBR MLS.  MORTGAGE MONEY IS AVAILABLE FOR CONVENTIONAL-FHA &amp; VA LOANS. INTEREST RATES ARE FAVORABLE. SELLER CONCESSIONS ARE COMMON IN THE CURRENT MARKET. " _TypicalMarketingTimeDurationType="OverSixMonths">
+            <_HOUSING _HighPriceAmount="250 " _LowPriceAmount="75 " _NewestYearsCount="NEW " _OldestYearsCount="100 " _PredominantAgeYearsCount="75 " _PredominantPriceAmount="125 " _Type="SingleFamily"/>
+            <_PRESENT_LAND_USE _Percent="" _Type="SingleFamily"/>
+            <_PRESENT_LAND_USE _Percent="" _Type="TwoToFourFamily"/>
+            <_PRESENT_LAND_USE _Percent="" _Type="Apartment"/>
+            <_PRESENT_LAND_USE _Percent="" _Type="Commercial"/>
+            <_PRESENT_LAND_USE _Percent="" _Type="Other"/>
+            <NEIGHBORHOOD_EXTENSION>
+                <NEIGHBORHOOD_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <NEIGHBORHOOD_EXTENSION_SECTION_DATA>
+                        <NEIGHBORHOOD_BOUNDARIES GSENeighborhoodBoundariesDescription="GRAVITY STREET IS WEST-SAND STREET IS NORTH-WHEELER AVE IS EAST. "/>
+                    </NEIGHBORHOOD_EXTENSION_SECTION_DATA>
+                </NEIGHBORHOOD_EXTENSION_SECTION>
+            </NEIGHBORHOOD_EXTENSION>
+        </NEIGHBORHOOD>
+        <SITE _AreaDescription="4076 sf " _DimensionsDescription="SEE DEED " _ZoningClassificationDescription="" _ZoningClassificationIdentifier="">
+            <SITE_FEATURE _Comment="RECTANGULAR " _Type="Shape"/>
+        </SITE>
+        <SITE _ZoningComplianceType="Legal">Legal</SITE>
+        <SITE _ZoningComplianceType="Nonconforming"/>
+        <SITE _ZoningComplianceType="NoZoning"/>
+        <SITE _ZoningComplianceDescription="" _ZoningComplianceType="Illegal"/>
+        <SITE HighestBestUseIndicator="Y"/>
+        <SITE HighestBestUseDescription="" HighestBestUseIndicator="N">No<SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="" _PublicIndicator="Public" _Type="Electricity"/>
+            <SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="" _PublicIndicator="Public" _Type="Gas"/>
+            <SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="" _PublicIndicator="Public" _Type="Water"/>
+            <SITE_UTILITY _NonPublicDescription="" _NonPublicIndicator="" _PublicIndicator="Public" _Type="SanitarySewer"/>
+            <FLOOD_ZONE NFIPMapPanelDate="09/  /1979 ">
+                <FLOOD_ZONE_EXTENSION>
+                    <FLOOD_ZONE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                        <FLOOD_ZONE_EXTENSION_SECTION_DATA>
+                            <FLOOD_ZONE_INFORMATION GSEFEMASpecialFloodHazardAreaIndicator="Y"/>
+                            <FLOOD_ZONE_INFORMATION GSEFEMAFloodMapIdentifier="" GSEFEMASpecialFloodHazardAreaIndicator="N" GSENFIPFloodZoneIdentifier="C ">No</FLOOD_ZONE_INFORMATION>
+                        </FLOOD_ZONE_EXTENSION_SECTION_DATA>
+                    </FLOOD_ZONE_EXTENSION_SECTION>
+                </FLOOD_ZONE_EXTENSION>
+            </FLOOD_ZONE>
+            <SITE_FEATURE _Comment="CONCRETE " _Type="Driveway"/>
+        </SITE>
+        <_OFF_SITE_IMPROVEMENT _Description="MACADAM " _Type="Street"/>
+        <_OFF_SITE_IMPROVEMENT _ExistsIndicator="Public" _OwnershipType="Public" _Type="Street"/>
+        <_OFF_SITE_IMPROVEMENT _ExistsIndicator="" _OwnershipType="Private" _Type="Street"/>
+        <_OFF_SITE_IMPROVEMENT _Description="NO " _Type="Alley"/>
+        <_OFF_SITE_IMPROVEMENT _ExistsIndicator="Public" _OwnershipType="Public" _Type="Alley"/>
+        <_OFF_SITE_IMPROVEMENT _ExistsIndicator="" _OwnershipType="Private" _Type="Alley"/>
+        <PROPERTY_ANALYSIS _ExistsIndicator="Y" _Type="UtilitiesAndOffSiteImprovementsConformToNeighborhood"/>
+        <PROPERTY_ANALYSIS _Comment="FEMA Flood Zone " _ExistsIndicator="N" _Type="UtilitiesAndOffSiteImprovementsConformToNeighborhood">No</PROPERTY_ANALYSIS>
+        <PROPERTY_ANALYSIS _ExistsIndicator="Y" _Type="AdverseSiteConditions"/>
+        <PROPERTY_ANALYSIS _Comment="FEMA Flood Zone " _ExistsIndicator="N" _Type="AdverseSiteConditions">No</PROPERTY_ANALYSIS>
+        <STRUCTURE LivingUnitCount="1" _AccessoryUnitExistsIndicator="N">One</STRUCTURE>
+        <STRUCTURE LivingUnitCount="1" _AccessoryUnitExistsIndicator="Y">
+            <STRUCTURE_EXTENSION>
+                <STRUCTURE_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <STRUCTURE_EXTENSION_SECTION_DATA>
+                        <STRUCTURE_INFORMATION GSEStoriesCount="1 " GSEYearBuiltEstimationIndicator="2012 "/>
+                    </STRUCTURE_EXTENSION_SECTION_DATA>
+                </STRUCTURE_EXTENSION_SECTION>
+            </STRUCTURE_EXTENSION>
+        </STRUCTURE>
+        <STRUCTURE AttachmentType="Detached">Det.</STRUCTURE>
+        <STRUCTURE AttachmentType="Attached"/>
+        <STRUCTURE AttachmentType="SemiDetached"/>
+        <STRUCTURE BuildingStatusType="Existing">Existing</STRUCTURE>
+        <STRUCTURE BuildingStatusType="Proposed">Proposed</STRUCTURE>
+        <STRUCTURE BuildingStatusType="UnderConstruction" GrossLivingAreaSquareFeetCount="1,625 " PropertyStructureBuiltYear="" TotalBathroomCount="2.0 " TotalBedroomCount="" TotalRoomCount="" _DesignDescription="BI-LEVEL ">
+            <STRUCTURE_ANALYSIS>
+                <STRUCTURE_ANALYSIS_EXTENSION>
+                    <STRUCTURE_ANALYSIS_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                        <STRUCTURE_ANALYSIS_EXTENSION_SECTION_DATA>
+                            <EFFECTIVE_AGE GSEEffectiveAgeDescription="0 "/>
+                        </STRUCTURE_ANALYSIS_EXTENSION_SECTION_DATA>
+                    </STRUCTURE_ANALYSIS_EXTENSION_SECTION>
+                </STRUCTURE_ANALYSIS_EXTENSION>
+            </STRUCTURE_ANALYSIS>
+            <FOUNDATION _ExistsIndicator="" _Type="Slab"/>
+            <FOUNDATION _ExistsIndicator="" _Type="Crawlspace"/>
+            <FOUNDATION _ExistsIndicator="Full Basement" _Type="Basement"/>
+            <FOUNDATION _ExistsIndicator="" _Type="PartialBasement">
+                <_CONDITION _ExistsIndicator="" _Type="Infestation"/>
+                <_CONDITION _ExistsIndicator="" _Type="Dampness"/>
+                <_CONDITION _ExistsIndicator="" _Type="Settlement"/>
+            </FOUNDATION>
+            <BASEMENT SquareFeetCount="1,625sq. ft. " _FinishedPercent="56% ">
+                <BASEMENT_FEATURE _ExistsIndicator="Outside Entry/Exit" _Type="OutsideEntry"/>
+            </BASEMENT>
+            <FOUNDATION_FEATURE _ExistsIndicator="" _Type="SumpPump"/>
+            <EXTERIOR_FEATURE _Type="Foundation "/>
+            <EXTERIOR_FEATURE _Type="Walls "/>
+            <EXTERIOR_FEATURE _Type="RoofSurface "/>
+            <EXTERIOR_FEATURE _Type="GuttersAndDownspouts "/>
+            <EXTERIOR_FEATURE _Type="WindowType "/>
+            <EXTERIOR_FEATURE _Description="YES-YES GOOD " _Type="WindowStormSash"/>
+            <EXTERIOR_FEATURE _Type="WindowScreens "/>
+            <INTERIOR_FEATURE _ConditionDescription="HW-W/W-TL GD " _Type="Floors"/>
+            <INTERIOR_FEATURE _ConditionDescription="PINE GOOD " _Type="Walls"/>
+            <INTERIOR_FEATURE _ConditionDescription="" _Type="TrimAndFinish"/>
+            <INTERIOR_FEATURE _ConditionDescription="VINYL GOOD " _Type="BathroomFloors"/>
+            <INTERIOR_FEATURE _ConditionDescription="PAINT GOOD " _Type="BathroomWainscot"/>
+            <ATTIC _ExistsIndicator="">
+                <ATTIC_FEATURE _ExistsIndicator="" _Type="DropStair"/>
+                <ATTIC_FEATURE _ExistsIndicator="" _Type="Stairs"/>
+                <ATTIC_FEATURE _ExistsIndicator="" _Type="Floor"/>
+                <ATTIC_FEATURE _ExistsIndicator="Scuttle" _Type="Scuttle"/>
+                <ATTIC_FEATURE _ExistsIndicator="" _Type="Finished"/>
+                <ATTIC_FEATURE _ExistsIndicator="" _Type="Heated"/>
+            </ATTIC>
+            <HEATING _Type="ForcedWarmAir"/>
+            <HEATING _Type="HotWaterBaseboard">HWBB</HEATING>
+            <HEATING _Type="Radiant"/>
+            <HEATING _FuelDescription="GAS " _Type="Other" _TypeOtherDescription=""/>
+            <COOLING _CentralizedIndicator="" _IndividualIndicator="" _OtherIndicator="" _UnitDescription=""/>
+            <AMENITY _Count="2 " _ExistsIndicator="Fireplace(s) #" _Type="Fireplace"/>
+            <AMENITY _DetailedDescription="Pool" _ExistsIndicator="Patio/Deck" _Type="Patio"/>
+            <AMENITY _DetailedDescription="" _ExistsIndicator="" _Type="Pool"/>
+            <AMENITY _Count="0Driveway Surface " _ExistsIndicator="" _Type="WoodStove"/>
+            <AMENITY _DetailedDescription="" _ExistsIndicator="Fence" _Type="Fence"/>
+            <AMENITY _DetailedDescription="" _ExistsIndicator="Porch" _Type="Porch"/>
+            <AMENITY _ExistsIndicator="" _Type="Other" _TypeOtherDescription=""/>
+            <CAR_STORAGE _ExistsIndicator="">
+                <CAR_STORAGE_LOCATION ParkingSpacesCount="0 " _ExistsIndicator="Driveway" _Type="Driveway"/>
+                <CAR_STORAGE_LOCATION ParkingSpacesCount="0 " _ExistsIndicator="Garage" _Type="Garage"/>
+                <CAR_STORAGE_LOCATION ParkingSpacesCount="0 " _ExistsIndicator="" _Type="Carport"/>
+            </CAR_STORAGE>
+            <CAR_STORAGE _AttachmentType="Detached">Det.</CAR_STORAGE>
+            <CAR_STORAGE _AttachmentType="BuiltIn">Built-in</CAR_STORAGE>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="Refrigerator" _Type="Refrigerator"/>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="Range/Oven" _Type="RangeOven"/>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="Dishwasher" _Type="Dishwasher"/>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="" _Type="Disposal"/>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="Microwave" _Type="Microwave"/>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="Washer/Dryer" _Type="WasherDryer"/>
+            <KITCHEN_EQUIPMENT _ExistsIndicator="" _Type="Other" _TypeOtherDescription=""/>
+            <OVERALL_CONDITION_RATING_EXTENSION>
+                <OVERALL_CONDITION_RATING_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <OVERALL_CONDITION_RATING_EXTENSION_SECTION_DATA>
+                        <OVERALL_CONDITION_RATING GSEUpdateLastFifteenYearIndicator=""/>
+                    </OVERALL_CONDITION_RATING_EXTENSION_SECTION_DATA>
+                </OVERALL_CONDITION_RATING_EXTENSION_SECTION>
+            </OVERALL_CONDITION_RATING_EXTENSION>
+            <CONDITION_DETAIL_EXTENSION>
+                <CONDITION_DETAIL_EXTENSION_SECTION ExtensionSectionOrganizationName="UNIFORM APPRAISAL DATASET">
+                    <CONDITION_DETAIL_EXTENSION_SECTION_DATA>
+                        <CONDITION_DETAIL GSEEstimateYearOfImprovementType="" GSEImprovementAreaType="" GSEImprovementDescriptionType="" _SequenceIdentifier="1..2"/>
+                    </CONDITION_DETAIL_EXTENSION_SECTION_DATA>
+                </CONDITION_DETAIL_EXTENSION_SECTION>
+            </CONDITION_DETAIL_EXTENSION>
+        </STRUCTURE>
+        <PROPERTY_ANALYSIS _Comment="GOOD FLOOR PLAN-SPACIOUS ROOMS-HW FLOORS-OAK STAIRCASE-OAK KITCHEN W/BRKFST BAR-MASTER BED &amp; BATH-PART FIN BSMT-2 CAR GAR-CONCR DRIVE/WALKS-PR-FN-PAT-PL " _Type="AdditionalFeatures"/>
+        <PROPERTY_ANALYSIS _Comment="" _Type="PropertyCondition"/>
+        <PROPERTY_ANALYSIS _ExistsIndicator="Y" _Type="PhysicalDeficiency"/>
+        <PROPERTY_ANALYSIS _Comment="" _ExistsIndicator="N" _Type="PhysicalDeficiency">No</PROPERTY_ANALYSIS>
+        <PROPERTY_ANALYSIS _ExistsIndicator="Y" _Type="ConformsToNeighborhood"/>
+        <PROPERTY_ANALYSIS _Comment="" _ExistsIndicator="N" _Type="ConformsToNeighborhood">No</PROPERTY_ANALYSIS>
+        <PROJECT _DeveloperControlsProjectManagementIndicator="Y"/>
+        <PROJECT _DeveloperControlsProjectManagementIndicator="N"/>
+        <PROJECT _DesignType="Detached"/>
+        <PROJECT _DesignType="Attached"/>
+        <PROJECT _DesignType="Other" _DesignTypeOtherDescription="AttachedAndDetached" _Name="">
+            <DEVELOPMENT_STAGE CompletedUnitsCount="" DataSourceDescription="" UnitsForSaleCount="" UnitsRentedCount="" UnitsSoldCount="" _TotalPhasesCount=""/>
+        </PROJECT>
+        <PROJECT _ClassificationType="PUD" _ConversionIndicator="Y"/>
+        <PROJECT _ClassificationType="PUD" _ConversionDate="" _ConversionIndicator="N"/>
+        <PROJECT _ContainsMultipleDwellingUnitsIndicator="Y"/>
+        <PROJECT _ContainsMultipleDwellingUnitsDataSourceDescription="" _ContainsMultipleDwellingUnitsIndicator="N"/>
+        <PROJECT _CommonElementsCompletedIndicator="Y"/>
+        <PROJECT _CommonElementsCompletedIndicator="N" _CommonElementsStatusDescription=""/>
+        <PROJECT _CommonElementsLeasedIndicator="Y"/>
+        <PROJECT _CommonElementsDescription="" _CommonElementsLeaseTermsDescription="" _CommonElementsLeasedIndicator="N"/>
+    </PROPERTY>
+</VALUATION_RESPONSE>
